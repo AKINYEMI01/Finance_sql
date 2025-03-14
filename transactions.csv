@@ -1,0 +1,1001 @@
+TransactionID,AccountID,TransactionDate,Amount,TransactionType,MerchantCategory,TransactionMode
+1,1438,2024-06-03,22014.57,Transfer,Online Shopping,Online
+2,429,2024-12-14,8280.96,Withdrawal,Entertainment,Card Payment
+3,635,2024-03-27,14260.49,Deposit,Entertainment,Online
+4,730,2024-07-28,14170.38,Withdrawal,Online Shopping,Bank Transfer
+5,889,2025-01-09,23086.33,Transfer,Entertainment,Card Payment
+6,1085,2024-09-29,7000.1,Payment,Bills,Online
+7,1636,2024-10-11,1017.87,Withdrawal,Entertainment,ATM
+8,1331,2024-02-16,601.4,Transfer,Bills,Mobile Payment
+9,1378,2024-03-02,11447.69,Payment,Online Shopping,Online
+10,393,2023-05-07,7965.93,Payment,Grocery,Online
+11,204,2023-08-12,7604.83,Deposit,Online Shopping,ATM
+12,258,2024-01-09,-6354.51,Payment,Entertainment,Bank Transfer
+13,486,2023-11-25,18744.15,Withdrawal,Bills,ATM
+14,1541,2024-12-01,-1450.53,Withdrawal,Grocery,Online
+15,446,2024-03-19,-2121.85,Payment,Entertainment,Bank Transfer
+16,1733,2024-02-20,6510.33,Transfer,Grocery,Card Payment
+17,1204,2023-10-27,-888.87,Withdrawal,Grocery,Online
+18,1024,2024-12-10,13354.33,Withdrawal,Entertainment,ATM
+19,342,2023-12-11,4858.53,Deposit,Online Shopping,Card Payment
+20,133,2024-05-25,7956.47,Transfer,Entertainment,Mobile Payment
+21,443,2024-10-14,11486.77,Payment,Entertainment,Card Payment
+22,1860,2023-07-09,-1858.58,Transfer,Online Shopping,ATM
+23,253,2024-10-21,-3769.94,Deposit,Bills,Card Payment
+24,265,2023-06-29,25216.88,Deposit,Entertainment,ATM
+25,93,2024-12-24,7348.95,Transfer,Grocery,Online
+26,1686,2024-03-13,6483.74,Deposit,Entertainment,Bank Transfer
+27,1435,2024-02-05,-8575.51,Deposit,Entertainment,Mobile Payment
+28,138,2023-06-21,9919.05,Deposit,Grocery,Online
+29,1232,2024-05-22,12166.79,Transfer,Online Shopping,Bank Transfer
+30,1002,2024-08-30,12353.63,Deposit,Bills,Bank Transfer
+31,1661,2024-07-21,18281.25,Payment,Bills,ATM
+32,1770,2023-05-29,-2900.73,Payment,Grocery,ATM
+33,1597,2023-11-06,88.93,Withdrawal,Online Shopping,Mobile Payment
+34,307,2024-02-07,22429.22,Payment,Entertainment,ATM
+35,266,2023-12-08,27886.82,Withdrawal,Entertainment,ATM
+36,646,2024-05-22,-4562.69,Transfer,Entertainment,ATM
+37,318,2023-06-07,9905.98,Deposit,Entertainment,ATM
+38,1137,2024-04-07,-1432.95,Payment,Entertainment,Online
+39,901,2025-01-10,-7597.07,Withdrawal,Grocery,Mobile Payment
+40,1402,2023-05-16,3020.13,Transfer,,ATM
+41,454,2024-01-05,-4252.49,Withdrawal,Entertainment,Mobile Payment
+42,191,2023-06-14,18397.32,Deposit,Online Shopping,Card Payment
+43,1915,2023-10-11,11349.02,Payment,Entertainment,Online
+44,1464,2023-10-26,-4246.62,Transfer,Bills,ATM
+45,1211,2024-09-22,-9630.34,Withdrawal,Grocery,Online
+46,831,2023-05-18,22326.28,Transfer,Grocery,Online
+47,1391,2025-01-14,-2952.22,Withdrawal,Grocery,Card Payment
+48,1113,2024-02-10,14248.67,Withdrawal,Bills,Mobile Payment
+49,187,2024-02-26,3476.88,Deposit,Entertainment,Online
+50,819,2023-05-16,13419.44,Deposit,Grocery,Bank Transfer
+51,1970,2024-04-26,2626.15,Withdrawal,Bills,Card Payment
+52,1021,2024-09-14,-6522.42,Payment,Online Shopping,Bank Transfer
+53,132,2024-03-21,-1082,Transfer,Entertainment,Card Payment
+54,872,2024-03-30,-2477.66,Transfer,Bills,Bank Transfer
+55,635,2023-06-08,7120.77,Deposit,Entertainment,Bank Transfer
+56,1584,2024-08-05,16331.35,Payment,Online Shopping,Online
+57,1824,2023-07-05,552.24,Withdrawal,Bills,Online
+58,1400,2025-01-24,-9517.2,Deposit,Entertainment,Card Payment
+59,691,2023-12-25,10757.49,Withdrawal,Bills,Mobile Payment
+60,692,2024-08-02,14230.38,Withdrawal,Grocery,Online
+61,1123,2023-12-10,28514.82,Deposit,Entertainment,Online
+62,1866,2024-10-27,13578.83,Payment,Bills,ATM
+63,1058,2023-05-30,8846.9,Transfer,Grocery,Online
+64,1956,2024-05-25,12936.07,Deposit,Online Shopping,Mobile Payment
+65,582,2025-02-26,27116.03,Payment,Entertainment,ATM
+66,171,2023-11-24,23135.13,Withdrawal,Entertainment,Bank Transfer
+67,1390,2023-12-21,2919.15,Deposit,Online Shopping,Bank Transfer
+68,784,2023-05-05,-509.83,Transfer,Grocery,ATM
+69,1083,2023-11-15,505.34,Transfer,Online Shopping,ATM
+70,181,2023-11-18,10176.84,Withdrawal,Entertainment,ATM
+71,19,2023-07-19,19761.98,Deposit,Bills,Card Payment
+72,1250,2025-02-21,10128.77,Transfer,Grocery,Mobile Payment
+73,1497,2024-03-20,-7288.14,Deposit,Grocery,Mobile Payment
+74,1119,2023-06-18,18943.23,Transfer,Grocery,Bank Transfer
+75,881,2023-09-22,22238.81,Withdrawal,Online Shopping,Bank Transfer
+76,1321,2023-09-14,1579.91,Withdrawal,Online Shopping,Bank Transfer
+77,1617,2024-11-23,16565.03,Deposit,Bills,Online
+78,175,2024-11-11,7063.68,Payment,Bills,Bank Transfer
+79,1246,2023-12-17,25564.77,Payment,Grocery,ATM
+80,1639,2023-06-26,23809.02,Withdrawal,Bills,Bank Transfer
+81,54,2024-12-06,11017.28,Transfer,Online Shopping,ATM
+82,695,2025-03-02,17660.22,Payment,Bills,Card Payment
+83,863,2025-02-06,25333.99,Withdrawal,Online Shopping,Online
+84,1427,2024-09-16,9828.68,Transfer,Bills,Online
+85,1342,2023-08-10,2530.03,Transfer,Entertainment,Mobile Payment
+86,1891,2023-12-11,20146.65,Payment,Online Shopping,Card Payment
+87,349,2024-06-26,-1197.35,Withdrawal,Entertainment,ATM
+88,443,2023-12-27,5541.25,Transfer,Online Shopping,Card Payment
+89,833,2024-06-24,24629.09,Transfer,Bills,Online
+90,580,2023-09-19,18976.89,Deposit,Entertainment,ATM
+91,1564,2024-05-12,6152.44,Deposit,Bills,Card Payment
+92,1810,2024-07-01,-1410.22,Payment,,Online
+93,282,2023-06-19,4238.74,Deposit,Entertainment,ATM
+94,360,2024-03-28,1364.17,Withdrawal,Grocery,ATM
+95,915,2023-09-11,-2956.43,Payment,Bills,Online
+96,823,2024-08-17,19733.32,Payment,Online Shopping,ATM
+97,1655,2023-05-17,82.8,Deposit,Entertainment,Online
+98,892,2024-08-24,8166.7,Transfer,Bills,Bank Transfer
+99,953,2024-04-10,5434.38,Withdrawal,Entertainment,Bank Transfer
+100,1670,2023-12-22,29283.1,Withdrawal,Bills,ATM
+101,641,2023-09-25,5643.69,Withdrawal,Bills,ATM
+102,1032,2024-11-09,-6800.7,Payment,,Online
+103,563,2023-08-02,-6406.97,Withdrawal,Entertainment,ATM
+104,491,2023-06-10,13630.15,Transfer,Entertainment,Mobile Payment
+105,341,2024-05-24,13974.54,Transfer,Bills,Bank Transfer
+106,472,2024-03-22,6750.36,Deposit,Grocery,ATM
+107,1817,2024-10-10,7273.75,Withdrawal,Grocery,ATM
+108,1711,2023-10-21,-7842.7,Payment,Grocery,Card Payment
+109,1719,2023-07-20,10661.86,Deposit,Online Shopping,ATM
+110,1728,2024-08-18,10189.58,Transfer,Grocery,Mobile Payment
+111,249,2024-07-22,-4018.03,Withdrawal,Entertainment,Bank Transfer
+112,235,2025-02-01,-5846.42,Transfer,Grocery,Card Payment
+113,1107,2023-09-09,-5057.1,Deposit,Entertainment,Online
+114,1117,2023-04-12,-5958.87,Transfer,Online Shopping,Online
+115,1909,2023-11-15,14388.33,Withdrawal,Entertainment,Bank Transfer
+116,1418,2024-09-03,-2140.69,Withdrawal,Entertainment,Online
+117,824,2024-11-01,57.21,Deposit,Entertainment,Mobile Payment
+118,1292,2023-10-29,-3057.11,Withdrawal,Grocery,ATM
+119,1441,2024-09-01,28313.41,Transfer,Bills,Bank Transfer
+120,632,2023-07-24,24184.7,Transfer,Entertainment,Card Payment
+121,1607,2024-05-24,-780.21,Payment,Grocery,ATM
+122,529,2024-06-11,3102.65,Payment,Grocery,Online
+123,1277,2025-01-25,-1604.29,Payment,Grocery,Online
+124,1981,2025-01-31,9675.04,Transfer,Bills,Card Payment
+125,122,2025-01-02,-9215.58,Transfer,Bills,Mobile Payment
+126,892,2024-01-20,16854.72,Deposit,Bills,Card Payment
+127,10,2024-07-29,10926.33,Payment,Bills,Bank Transfer
+128,1823,2023-06-06,25945.56,Transfer,Online Shopping,Card Payment
+129,1340,2023-08-13,-3424.29,Deposit,Bills,Online
+130,838,2023-10-24,22164.37,Transfer,Bills,Mobile Payment
+131,1297,2024-06-18,21678.44,Deposit,Bills,Mobile Payment
+132,1330,2023-04-24,-4912.75,Payment,,Card Payment
+133,1829,2024-06-20,5942.37,Payment,Entertainment,Bank Transfer
+134,1234,2025-03-01,-3193.89,Payment,Bills,Online
+135,1982,2024-09-19,188.82,Transfer,Online Shopping,ATM
+136,1754,2024-10-14,529.85,Transfer,Entertainment,Mobile Payment
+137,753,2023-08-25,12249.46,Deposit,Grocery,Card Payment
+138,886,2025-02-28,6456.44,Withdrawal,Entertainment,Bank Transfer
+139,464,2023-06-28,27909.31,Withdrawal,Grocery,Bank Transfer
+140,712,2024-07-13,-4945.19,Payment,Entertainment,Online
+141,728,2023-04-25,28947.69,Withdrawal,Bills,Mobile Payment
+142,717,2025-02-25,-774.45,Payment,Entertainment,Online
+143,1949,2024-04-29,20914.96,Deposit,Bills,ATM
+144,1440,2024-12-04,3558.8,Withdrawal,Bills,ATM
+145,1240,2024-03-18,-4276.74,Withdrawal,Entertainment,ATM
+146,80,2024-05-13,24315.57,Payment,Grocery,Bank Transfer
+147,1803,2024-09-13,2354.44,Deposit,Grocery,Mobile Payment
+148,480,2024-05-05,16354.22,Withdrawal,Entertainment,Online
+149,902,2025-01-12,12657.75,Withdrawal,Bills,Online
+150,891,2024-02-27,8870.25,Withdrawal,Grocery,ATM
+151,1571,2023-06-04,9832.78,Deposit,Online Shopping,Mobile Payment
+152,1825,2023-05-22,19289.52,Deposit,Bills,Mobile Payment
+153,18,2024-06-11,-6489.08,Withdrawal,Entertainment,Card Payment
+154,1189,2023-10-21,16727.23,Payment,Bills,Mobile Payment
+155,1549,2023-03-27,25832.48,Payment,Online Shopping,Mobile Payment
+156,202,2023-09-13,-7688.47,Withdrawal,Online Shopping,Online
+157,741,2024-02-14,-4373.87,Deposit,Grocery,Mobile Payment
+158,1370,2023-05-13,18665.28,Withdrawal,Online Shopping,Mobile Payment
+159,1390,2023-04-08,7491.27,Deposit,Bills,Online
+160,1472,2023-06-01,6141.94,Withdrawal,Grocery,Mobile Payment
+161,1537,2023-06-22,-4521.33,Deposit,Online Shopping,Online
+162,319,2025-02-10,10270.8,Transfer,Grocery,Card Payment
+163,217,2024-08-10,-4938.19,Payment,Grocery,Bank Transfer
+164,1058,2024-05-03,9064.82,Transfer,Entertainment,Online
+165,1895,2024-12-15,20544.61,Payment,Grocery,Online
+166,266,2023-08-26,330.57,Deposit,Grocery,Mobile Payment
+167,1664,2024-11-14,9231.45,Transfer,Online Shopping,Online
+168,724,2024-08-23,29680.64,Payment,Bills,ATM
+169,775,2023-06-06,17466.02,Withdrawal,Bills,ATM
+170,1848,2023-05-13,23654.27,Deposit,Online Shopping,Card Payment
+171,1104,2024-08-19,6593.9,Deposit,Bills,Online
+172,1701,2024-09-22,20714.44,Withdrawal,Grocery,Mobile Payment
+173,413,2023-09-05,-8379.63,Withdrawal,Entertainment,Mobile Payment
+174,1276,2025-02-14,-5083.55,Payment,,Bank Transfer
+175,1036,2024-09-13,-1877.18,Deposit,Grocery,Card Payment
+176,401,2024-12-18,6078.08,Payment,,Mobile Payment
+177,1840,2024-03-14,23829.8,Withdrawal,Online Shopping,Bank Transfer
+178,724,2023-05-28,3850.64,Deposit,Grocery,Mobile Payment
+179,282,2024-02-01,16184.85,Withdrawal,Grocery,Bank Transfer
+180,1136,2023-10-13,18372.57,Payment,Online Shopping,ATM
+181,723,2024-08-26,13447.29,Payment,Grocery,ATM
+182,1402,2023-05-03,4289.68,Payment,Grocery,Mobile Payment
+183,751,2024-12-12,13082.13,Deposit,Bills,Card Payment
+184,268,2023-07-18,3690.62,Withdrawal,Online Shopping,Online
+185,1941,2023-09-05,-6645.05,Withdrawal,Grocery,Card Payment
+186,298,2024-03-18,29712.16,Payment,Grocery,Card Payment
+187,1341,2024-05-27,-4912.7,Payment,Entertainment,Online
+188,570,2023-08-27,-7106.06,Payment,Entertainment,ATM
+189,509,2024-05-12,25141.23,Payment,Entertainment,ATM
+190,1974,2024-01-14,2073.39,Transfer,Grocery,Online
+191,546,2023-08-04,16011.88,Transfer,Grocery,Bank Transfer
+192,775,2024-01-06,3160.23,Transfer,Entertainment,Card Payment
+193,365,2023-06-13,5658.17,Payment,Bills,Mobile Payment
+194,547,2023-07-13,484.52,Payment,Bills,ATM
+195,271,2024-03-06,3721.76,Withdrawal,Bills,Mobile Payment
+196,1985,2025-03-04,6428.02,Deposit,Bills,Online
+197,1498,2024-06-27,18816.64,Withdrawal,Online Shopping,Mobile Payment
+198,739,2025-02-10,10461.45,Transfer,Entertainment,Mobile Payment
+199,537,2024-06-10,27742.61,Withdrawal,Grocery,Card Payment
+200,1258,2025-02-19,-8324.78,Payment,Entertainment,Online
+201,59,2024-06-20,10122.73,Transfer,Bills,Mobile Payment
+202,1275,2025-01-10,13368.99,Transfer,Grocery,ATM
+203,1871,2023-12-09,26807.88,Deposit,Online Shopping,Online
+204,86,2023-07-06,-8033.66,Deposit,Entertainment,ATM
+205,763,2024-12-11,12939.98,Transfer,Grocery,Bank Transfer
+206,390,2024-02-10,24145.2,Transfer,Grocery,Mobile Payment
+207,1204,2024-09-18,-322.89,Withdrawal,Bills,Online
+208,719,2024-01-25,25051.69,Transfer,Bills,ATM
+209,856,2024-10-03,-9238.26,Payment,Entertainment,Mobile Payment
+210,149,2023-10-12,19298.19,Withdrawal,Online Shopping,Online
+211,583,2024-02-28,27324.53,Payment,Grocery,ATM
+212,121,2024-12-01,16287.91,Payment,Bills,ATM
+213,765,2024-10-09,7561.17,Payment,Entertainment,Bank Transfer
+214,605,2024-06-24,-8204.76,Transfer,Bills,Card Payment
+215,256,2025-03-05,26804.55,Deposit,Entertainment,Bank Transfer
+216,766,2024-01-25,8811.85,Deposit,Bills,Card Payment
+217,864,2025-02-19,-8840.13,Payment,,ATM
+218,800,2023-08-29,17592.84,Transfer,Grocery,Bank Transfer
+219,1333,2024-03-19,9273.49,Withdrawal,Bills,Mobile Payment
+220,59,2025-01-21,-5026.19,Payment,Grocery,Card Payment
+221,1022,2023-10-31,-1429.13,Withdrawal,Entertainment,ATM
+222,1093,2023-06-11,-7420.37,Withdrawal,Online Shopping,Online
+223,1470,2024-07-05,12971.74,Transfer,Grocery,Card Payment
+224,388,2023-06-01,14881.18,Transfer,Bills,Card Payment
+225,1110,2023-03-24,10229.69,Deposit,Grocery,Mobile Payment
+226,786,2025-01-16,22684.09,Deposit,Grocery,Card Payment
+227,1251,2023-05-12,24440.35,Transfer,Entertainment,Card Payment
+228,593,2023-03-16,14624.98,Payment,Online Shopping,Mobile Payment
+229,1650,2024-12-22,-9489.74,Deposit,Online Shopping,Mobile Payment
+230,1208,2023-04-02,17809.19,Withdrawal,Grocery,Bank Transfer
+231,1816,2024-08-08,6719.97,Payment,Grocery,ATM
+232,1346,2024-12-03,12622.3,Withdrawal,Entertainment,ATM
+233,909,2025-01-22,15963.22,Transfer,Grocery,Bank Transfer
+234,1342,2025-01-23,4009.46,Withdrawal,Entertainment,ATM
+235,566,2024-12-03,26683.94,Payment,Online Shopping,Card Payment
+236,399,2024-08-09,-4641.01,Transfer,Online Shopping,Bank Transfer
+237,1733,2023-07-10,16860.47,Payment,Entertainment,Bank Transfer
+238,899,2024-09-07,-9825.62,Withdrawal,Grocery,ATM
+239,1317,2023-04-28,26986.04,Payment,Online Shopping,Online
+240,293,2024-02-26,-5499.83,Transfer,Bills,ATM
+241,485,2024-08-02,-6204.63,Withdrawal,Entertainment,Online
+242,1923,2023-10-14,3320.31,Withdrawal,Online Shopping,Bank Transfer
+243,1471,2024-01-25,4942.65,Deposit,Online Shopping,Online
+244,803,2024-09-26,-1428,Deposit,Online Shopping,Card Payment
+245,1716,2024-02-23,13404.87,Payment,Bills,Mobile Payment
+246,1916,2024-12-11,7716.56,Deposit,Bills,Online
+247,1436,2023-11-02,-8632.98,Deposit,Bills,Mobile Payment
+248,1532,2024-11-09,2786.08,Deposit,Grocery,Card Payment
+249,1758,2025-02-04,22417.32,Deposit,Entertainment,Mobile Payment
+250,1810,2023-12-01,17588.06,Transfer,Grocery,Card Payment
+251,890,2023-10-25,18994.83,Transfer,Bills,Mobile Payment
+252,244,2024-08-12,17924.68,Deposit,Entertainment,Mobile Payment
+253,1444,2023-11-11,2438.92,Payment,Grocery,ATM
+254,1953,2024-11-27,-6013.44,Transfer,Grocery,Online
+255,960,2024-02-15,898.69,Deposit,Grocery,Mobile Payment
+256,1178,2024-08-05,23271.41,Transfer,Bills,Bank Transfer
+257,816,2024-06-25,29218.83,Withdrawal,Online Shopping,ATM
+258,1448,2023-09-17,9753.88,Transfer,Entertainment,Online
+259,273,2025-03-03,-9611.99,Transfer,Bills,ATM
+260,1960,2023-11-27,-4398.21,Payment,Entertainment,Online
+261,1671,2024-01-09,2883.22,Transfer,Bills,Card Payment
+262,1849,2024-05-03,13143.41,Payment,Grocery,Mobile Payment
+263,520,2024-10-06,-6996.25,Withdrawal,Grocery,Bank Transfer
+264,1152,2024-10-19,27734.29,Deposit,Online Shopping,ATM
+265,1397,2024-06-16,4603.35,Payment,Online Shopping,ATM
+266,568,2023-07-02,26503.37,Transfer,Entertainment,ATM
+267,638,2025-01-25,21220.87,Transfer,Online Shopping,ATM
+268,159,2025-03-04,20217.49,Payment,Online Shopping,Mobile Payment
+269,1595,2023-07-27,14268.78,Withdrawal,Entertainment,Online
+270,1594,2024-02-09,15071.35,Deposit,Bills,Mobile Payment
+271,652,2023-06-18,15520.13,Transfer,Online Shopping,Card Payment
+272,176,2024-01-10,15148.86,Withdrawal,Bills,Mobile Payment
+273,1951,2025-01-04,12149.13,Deposit,Grocery,Mobile Payment
+274,620,2024-04-24,29456.56,Deposit,Online Shopping,Card Payment
+275,211,2023-07-23,19291.62,Transfer,Grocery,Mobile Payment
+276,447,2024-04-14,21077.86,Payment,Grocery,Online
+277,586,2023-08-15,24898.51,Transfer,Bills,Bank Transfer
+278,167,2023-03-13,-1374.41,Transfer,Entertainment,Card Payment
+279,460,2023-12-14,-6647.83,Transfer,Online Shopping,ATM
+280,916,2024-12-10,9315.78,Withdrawal,Bills,Online
+281,1381,2024-06-23,10563.23,Payment,Entertainment,Bank Transfer
+282,1328,2023-05-08,23167.27,Withdrawal,Grocery,Online
+283,1257,2024-07-03,7751.34,Transfer,Online Shopping,Online
+284,1351,2024-06-19,12834.12,Payment,Grocery,ATM
+285,1908,2024-06-11,11082.84,Deposit,Grocery,Bank Transfer
+286,1206,2023-09-06,-8471.89,Payment,Online Shopping,Online
+287,1658,2023-12-11,14608.6,Transfer,Entertainment,ATM
+288,1358,2024-02-02,23121.73,Payment,Entertainment,Card Payment
+289,1739,2023-04-02,-3699.98,Deposit,Online Shopping,ATM
+290,1991,2024-07-25,13773.27,Deposit,Online Shopping,Mobile Payment
+291,1053,2024-12-30,13744.42,Payment,Bills,ATM
+292,714,2025-02-08,-3432.6,Deposit,Bills,ATM
+293,1117,2024-08-07,-5061.46,Withdrawal,Grocery,ATM
+294,841,2023-07-31,29202.08,Payment,Online Shopping,Online
+295,868,2023-11-03,5748.77,Deposit,Entertainment,Bank Transfer
+296,688,2024-12-02,-903.13,Deposit,Grocery,ATM
+297,330,2024-08-08,-3147.02,Payment,Grocery,ATM
+298,1747,2025-02-24,16704.07,Withdrawal,Grocery,Mobile Payment
+299,1208,2023-06-06,14377.81,Payment,Grocery,Mobile Payment
+300,95,2024-08-03,15742.08,Deposit,Entertainment,Card Payment
+301,785,2025-03-06,-6479.76,Payment,Grocery,Card Payment
+302,649,2024-05-30,25741.38,Deposit,Online Shopping,Mobile Payment
+303,1773,2023-10-27,5570.66,Transfer,Bills,Bank Transfer
+304,353,2023-04-10,2534.78,Payment,Entertainment,Card Payment
+305,930,2024-05-04,8494.46,Payment,Online Shopping,Bank Transfer
+306,941,2023-09-28,5602.64,Deposit,,Mobile Payment
+307,984,2023-04-05,24543.08,Deposit,Online Shopping,Card Payment
+308,1289,2023-10-31,27170.44,Deposit,Bills,ATM
+309,1671,2024-04-22,2138.13,Deposit,Bills,Mobile Payment
+310,1680,2024-03-26,24557.43,Payment,Bills,Card Payment
+311,1043,2024-01-29,21260.93,Deposit,Online Shopping,Bank Transfer
+312,1767,2023-04-20,27232.31,Payment,Bills,Bank Transfer
+313,646,2024-06-12,-169.99,Withdrawal,Grocery,Card Payment
+314,626,2023-05-31,13078.37,Payment,Bills,Bank Transfer
+315,1523,2025-02-28,981.78,Deposit,Entertainment,Card Payment
+316,139,2024-01-24,22963.78,Deposit,Online Shopping,Card Payment
+317,1661,2023-07-05,-9787.03,Withdrawal,Online Shopping,Bank Transfer
+318,716,2025-01-20,12592.77,Payment,Grocery,Online
+319,1597,2023-09-25,3568.14,Withdrawal,Bills,ATM
+320,762,2025-01-28,2907.35,Payment,Bills,Mobile Payment
+321,1834,2023-10-11,15796.25,Deposit,Entertainment,ATM
+322,1549,2024-12-08,24059.38,Payment,Grocery,Mobile Payment
+323,1932,2024-01-29,14367.82,Deposit,Entertainment,Mobile Payment
+324,255,2025-02-01,24126.92,Deposit,Entertainment,ATM
+325,1109,2023-04-06,583.88,Transfer,Online Shopping,Card Payment
+326,1482,2024-09-15,10780.07,Transfer,Online Shopping,Bank Transfer
+327,1556,2024-09-18,8021.46,Payment,Bills,Online
+328,1586,2023-09-21,-9534.2,Deposit,Bills,Online
+329,676,2023-04-30,12272.49,Withdrawal,Entertainment,Online
+330,92,2024-10-20,16460.97,Deposit,Bills,ATM
+331,1624,2024-09-02,13676.58,Withdrawal,Entertainment,ATM
+332,1093,2023-05-30,19451.2,Payment,Bills,Card Payment
+333,37,2023-09-08,12853.58,Payment,Bills,Online
+334,1789,2023-08-12,-7329.99,Withdrawal,Online Shopping,Card Payment
+335,1788,2024-06-17,-5342.18,Withdrawal,Online Shopping,Online
+336,140,2024-04-18,13858.98,Deposit,Online Shopping,ATM
+337,867,2023-12-25,999.17,Payment,Online Shopping,Bank Transfer
+338,1917,2024-01-21,-6814.19,Deposit,Grocery,Bank Transfer
+339,680,2023-04-23,7184.11,Withdrawal,Online Shopping,Bank Transfer
+340,1590,2023-08-21,12172.9,Transfer,Grocery,Bank Transfer
+341,1922,2023-07-16,3149.84,Transfer,Online Shopping,Mobile Payment
+342,1202,2024-02-12,18817.35,Transfer,Bills,Online
+343,1833,2023-09-05,15750.82,Withdrawal,Entertainment,Bank Transfer
+344,1837,2023-05-12,3312.73,Deposit,Bills,Mobile Payment
+345,1895,2023-08-04,20194.9,Payment,Bills,Mobile Payment
+346,1642,2023-06-27,15947.8,Withdrawal,Grocery,Mobile Payment
+347,137,2024-03-12,15497.82,Transfer,Online Shopping,Card Payment
+348,190,2024-11-17,12137.11,Deposit,Entertainment,Card Payment
+349,1664,2025-02-22,-9544.41,Payment,Entertainment,Mobile Payment
+350,342,2023-07-24,17860.29,Payment,Online Shopping,Bank Transfer
+351,1583,2024-11-26,5041.67,Withdrawal,Grocery,Online
+352,1029,2024-11-25,27704.39,Withdrawal,,ATM
+353,972,2024-10-24,22719.39,Payment,Grocery,Card Payment
+354,1281,2024-08-23,13507.78,Payment,Entertainment,Bank Transfer
+355,1836,2023-04-18,87.28,Transfer,Grocery,Bank Transfer
+356,662,2024-02-09,-1851.3,Payment,Grocery,ATM
+357,1830,2023-05-16,3615.39,Withdrawal,Entertainment,ATM
+358,243,2023-06-11,9062.72,Deposit,Entertainment,Bank Transfer
+359,1811,2024-07-06,1842.62,Transfer,,ATM
+360,1744,2023-12-27,10597.18,Transfer,Entertainment,Bank Transfer
+361,415,2024-10-20,-3385.18,Payment,Online Shopping,ATM
+362,1651,2024-10-26,29108.51,Deposit,Entertainment,ATM
+363,707,2024-06-26,-5683.02,Transfer,Entertainment,Bank Transfer
+364,343,2024-04-04,27277.77,Withdrawal,Grocery,Mobile Payment
+365,682,2024-02-27,26543.12,Payment,Bills,Bank Transfer
+366,1403,2023-04-24,11014.42,Withdrawal,Grocery,Online
+367,1618,2024-11-23,18996.41,Payment,Bills,ATM
+368,1690,2024-12-30,7441.93,Transfer,Grocery,Card Payment
+369,653,2024-11-07,15201.38,Payment,Online Shopping,ATM
+370,1850,2023-09-30,3623.04,Deposit,Grocery,Online
+371,146,2023-08-31,2046.36,Withdrawal,Grocery,Card Payment
+372,323,2024-09-07,13129.19,Deposit,Online Shopping,Card Payment
+373,122,2024-06-07,9925.19,Withdrawal,Online Shopping,Bank Transfer
+374,1276,2024-05-10,13181.45,Withdrawal,Entertainment,Mobile Payment
+375,1879,2024-08-23,1466.42,Payment,Grocery,Bank Transfer
+376,1923,2024-12-26,4678.31,Transfer,Online Shopping,Card Payment
+377,311,2025-01-17,-6644.08,Transfer,Online Shopping,Card Payment
+378,601,2024-01-23,-7908.95,Deposit,Entertainment,Mobile Payment
+379,475,2023-07-28,138.29,Payment,Bills,ATM
+380,570,2023-07-22,-7030.13,Transfer,Online Shopping,Mobile Payment
+381,1516,2023-07-05,-5849.01,Withdrawal,Online Shopping,Bank Transfer
+382,575,2024-10-16,22517.14,Withdrawal,Grocery,ATM
+383,347,2024-02-25,-8445.05,Payment,Entertainment,Bank Transfer
+384,820,2024-11-21,16357.71,Deposit,Grocery,Mobile Payment
+385,1511,2024-11-18,902.31,Payment,Bills,ATM
+386,1497,2023-05-03,24861.83,Deposit,Entertainment,Mobile Payment
+387,382,2024-07-19,9399.69,Payment,Grocery,Online
+388,1304,2024-04-12,2223.06,Withdrawal,Online Shopping,Card Payment
+389,72,2023-11-29,10705.56,Payment,Online Shopping,ATM
+390,521,2025-02-10,5278.32,Transfer,Entertainment,Card Payment
+391,1390,2025-01-09,12572.04,Transfer,Online Shopping,Online
+392,933,2024-06-21,-5418.69,Payment,Grocery,ATM
+393,1118,2024-12-02,29879.62,Deposit,Entertainment,Card Payment
+394,1397,2023-09-03,7022.24,Deposit,Online Shopping,Card Payment
+395,339,2023-08-07,3929.23,Withdrawal,Online Shopping,ATM
+396,1461,2024-02-12,18408.39,Withdrawal,Bills,Card Payment
+397,1360,2024-12-05,4555.98,Deposit,,Card Payment
+398,664,2024-03-06,23330.97,Payment,Entertainment,ATM
+399,1516,2024-02-08,8170.83,Withdrawal,Bills,Card Payment
+400,1941,2024-05-21,18782.34,Deposit,Grocery,Card Payment
+401,1892,2024-04-16,-5701.87,Deposit,Online Shopping,Bank Transfer
+402,40,2024-01-28,23844.77,Payment,Online Shopping,Bank Transfer
+403,1383,2023-04-27,19428.72,Transfer,Online Shopping,Online
+404,574,2023-03-14,-1531.33,Deposit,Entertainment,Bank Transfer
+405,1278,2024-08-16,-4188.56,Withdrawal,Entertainment,Bank Transfer
+406,966,2024-12-06,2651.69,Payment,,Online
+407,581,2024-03-25,29042.82,Payment,Online Shopping,Card Payment
+408,1422,2023-04-13,273.26,Payment,Online Shopping,Card Payment
+409,1781,2025-02-09,8245.09,Transfer,Online Shopping,Bank Transfer
+410,1901,2023-07-24,-8799.19,Transfer,Online Shopping,Online
+411,170,2024-11-23,5889.1,Withdrawal,,Card Payment
+412,1714,2023-11-25,12852.8,Withdrawal,Grocery,Mobile Payment
+413,701,2024-02-05,28124.98,Payment,Online Shopping,ATM
+414,511,2024-09-03,10669.44,Withdrawal,Grocery,ATM
+415,1284,2025-01-03,22764.29,Deposit,Online Shopping,ATM
+416,584,2024-11-04,11885.11,Transfer,Entertainment,Bank Transfer
+417,984,2024-01-23,-8368.6,Payment,,ATM
+418,459,2023-05-19,2600.33,Payment,Grocery,ATM
+419,529,2025-01-27,13021.98,Deposit,Online Shopping,Mobile Payment
+420,1906,2024-10-19,28023.76,Deposit,Entertainment,Card Payment
+421,341,2024-12-19,24365.21,Deposit,Entertainment,Mobile Payment
+422,57,2023-07-04,-865.78,Deposit,Online Shopping,Bank Transfer
+423,218,2024-12-06,-1195.61,Payment,Online Shopping,ATM
+424,619,2024-12-11,-1953.08,Transfer,Entertainment,Card Payment
+425,816,2023-10-16,26899.96,Transfer,Online Shopping,ATM
+426,1964,2025-01-15,24106.65,Deposit,Bills,ATM
+427,1709,2023-10-08,20995.34,Withdrawal,Online Shopping,Bank Transfer
+428,731,2023-04-20,5709.4,Payment,Entertainment,ATM
+429,464,2024-12-15,10175.23,Transfer,Entertainment,Online
+430,247,2024-02-08,8573.27,Deposit,Grocery,Card Payment
+431,730,2024-09-05,135.92,Withdrawal,Bills,Card Payment
+432,373,2023-04-04,10201.12,Withdrawal,Entertainment,Online
+433,417,2023-04-15,-8780.14,Deposit,Bills,Bank Transfer
+434,1055,2024-07-15,-4727.59,Payment,Online Shopping,ATM
+435,368,2024-10-14,25463.58,Transfer,Entertainment,ATM
+436,559,2024-06-28,20067.19,Withdrawal,Grocery,Bank Transfer
+437,1670,2023-05-29,6914.74,Transfer,Entertainment,Bank Transfer
+438,108,2023-05-31,10686.01,Transfer,Grocery,Bank Transfer
+439,584,2024-03-21,4799.96,Withdrawal,Bills,Bank Transfer
+440,839,2023-06-14,19631.19,Deposit,Grocery,ATM
+441,418,2024-01-18,21367.49,Withdrawal,Online Shopping,Bank Transfer
+442,1644,2024-09-14,20531.41,Withdrawal,Online Shopping,Online
+443,821,2024-01-22,18904.47,Payment,Online Shopping,Mobile Payment
+444,1422,2024-02-25,-1819.83,Transfer,Entertainment,Bank Transfer
+445,1296,2024-03-29,3518.8,Deposit,Online Shopping,Mobile Payment
+446,683,2023-08-16,8793.82,Transfer,Online Shopping,ATM
+447,1140,2024-04-28,3231.72,Withdrawal,Entertainment,Bank Transfer
+448,1865,2024-05-21,20197.61,Deposit,Bills,Card Payment
+449,1610,2023-08-20,3174.14,Deposit,Online Shopping,ATM
+450,256,2024-02-22,-4470.72,Deposit,Online Shopping,Online
+451,1105,2024-10-30,5961.62,Deposit,Entertainment,Online
+452,780,2024-12-01,29196.58,Payment,Bills,Mobile Payment
+453,1152,2024-09-10,-964.74,Deposit,Bills,Mobile Payment
+454,838,2024-07-21,14486.35,Withdrawal,Bills,Card Payment
+455,915,2023-03-18,7318.92,Payment,Entertainment,Card Payment
+456,235,2023-05-18,-7159.02,Withdrawal,Grocery,Online
+457,553,2024-11-25,9515.06,Withdrawal,Grocery,Bank Transfer
+458,181,2023-08-10,18086.57,Transfer,Online Shopping,Online
+459,157,2024-02-01,10528.8,Deposit,Online Shopping,Online
+460,1478,2024-01-16,24884.24,Deposit,Online Shopping,Card Payment
+461,571,2024-03-07,1557.48,Withdrawal,Grocery,Mobile Payment
+462,857,2023-10-28,-6550.03,Deposit,Entertainment,Card Payment
+463,1785,2024-12-05,27462.62,Payment,Online Shopping,Card Payment
+464,1728,2024-07-03,5127.85,Transfer,Entertainment,Card Payment
+465,1048,2023-12-02,13056.22,Deposit,,Online
+466,1497,2024-03-11,21680.13,Deposit,Entertainment,Bank Transfer
+467,1424,2023-10-13,2972.55,Payment,Entertainment,Online
+468,948,2024-09-12,18646.58,Transfer,Grocery,ATM
+469,592,2024-07-07,-4583.25,Payment,Entertainment,Card Payment
+470,134,2025-02-22,1651.75,Withdrawal,Bills,Card Payment
+471,421,2024-01-03,-4211.57,Withdrawal,Grocery,ATM
+472,213,2024-02-14,22449.22,Deposit,Online Shopping,Card Payment
+473,900,2023-06-28,-1094.03,Transfer,Grocery,Card Payment
+474,482,2023-07-31,18696.14,Withdrawal,Bills,Card Payment
+475,348,2024-08-08,27731.94,Payment,Bills,ATM
+476,166,2023-03-28,11110.89,Withdrawal,Entertainment,Online
+477,937,2024-02-26,11601.17,Withdrawal,Bills,Card Payment
+478,348,2023-05-05,8441.34,Payment,Bills,Bank Transfer
+479,849,2024-12-28,3035.61,Deposit,Bills,ATM
+480,398,2023-06-24,9026.2,Transfer,Bills,Mobile Payment
+481,583,2025-03-05,14112.3,Deposit,Online Shopping,ATM
+482,726,2023-06-12,29439.66,Payment,Online Shopping,Online
+483,1459,2023-12-31,27510.58,Withdrawal,Grocery,ATM
+484,1601,2024-03-21,24486.12,Transfer,Entertainment,Mobile Payment
+485,1245,2023-06-23,25565.22,Deposit,Online Shopping,Bank Transfer
+486,308,2024-01-12,8713.97,Payment,Bills,Mobile Payment
+487,991,2024-08-30,16297.77,Withdrawal,Entertainment,ATM
+488,798,2024-04-25,25802.67,Withdrawal,Online Shopping,Mobile Payment
+489,1721,2024-10-13,5718.03,Deposit,Grocery,ATM
+490,719,2024-12-14,28470.5,Payment,Bills,Bank Transfer
+491,466,2024-03-27,6631.44,Withdrawal,Entertainment,Bank Transfer
+492,99,2023-04-30,14043.31,Withdrawal,Online Shopping,Online
+493,1266,2023-11-27,18392.19,Transfer,Entertainment,Bank Transfer
+494,158,2023-11-04,28023.68,Withdrawal,Online Shopping,Card Payment
+495,610,2024-05-19,-215.35,Deposit,Grocery,Mobile Payment
+496,554,2023-12-22,19845.24,Payment,,Mobile Payment
+497,651,2023-10-12,10832.62,Payment,Grocery,ATM
+498,1819,2024-10-24,742.29,Transfer,Bills,Bank Transfer
+499,920,2024-06-11,21064.27,Payment,Bills,Online
+500,227,2024-07-31,12088.89,Deposit,Entertainment,Online
+501,423,2024-03-30,16438.95,Withdrawal,Online Shopping,Online
+502,1096,2023-05-30,2916.04,Transfer,Grocery,Card Payment
+503,243,2023-12-29,9250.96,Payment,Grocery,Bank Transfer
+504,530,2024-10-18,14694.17,Transfer,Grocery,Online
+505,1613,2023-06-12,6196.43,Transfer,Entertainment,Card Payment
+506,1069,2024-01-09,-2065.1,Payment,Entertainment,Mobile Payment
+507,1496,2023-10-08,28465.62,Transfer,Entertainment,ATM
+508,371,2023-05-05,10458.7,Payment,Bills,Bank Transfer
+509,1879,2023-03-27,19356.81,Deposit,Grocery,Bank Transfer
+510,652,2023-09-30,6441.89,Payment,Bills,Mobile Payment
+511,689,2024-08-08,4205.27,Withdrawal,Grocery,Bank Transfer
+512,734,2023-12-18,6286.57,Payment,Grocery,Bank Transfer
+513,1951,2023-08-21,6367.87,Withdrawal,Online Shopping,Bank Transfer
+514,92,2024-09-16,11767.2,Transfer,Grocery,Bank Transfer
+515,1046,2025-02-03,11738.79,Payment,Entertainment,Card Payment
+516,172,2024-01-14,9886.15,Withdrawal,Entertainment,Card Payment
+517,1628,2023-05-25,-4608.57,Payment,Entertainment,ATM
+518,1216,2024-11-08,9843.02,Payment,Online Shopping,Bank Transfer
+519,1101,2024-05-31,-3235.84,Payment,Online Shopping,Mobile Payment
+520,1305,2024-02-20,-4954.57,Deposit,Bills,Online
+521,1388,2024-10-17,27305.83,Withdrawal,Grocery,ATM
+522,179,2024-06-27,14198,Deposit,Grocery,Online
+523,238,2024-04-26,16379.6,Deposit,Entertainment,Online
+524,1159,2024-06-06,6071.75,Withdrawal,Entertainment,Bank Transfer
+525,877,2024-05-22,26359.24,Payment,Entertainment,Mobile Payment
+526,902,2024-09-14,15517.22,Deposit,Entertainment,Online
+527,280,2023-06-13,20766.79,Deposit,Entertainment,Online
+528,1043,2024-10-07,4742.5,Deposit,Entertainment,ATM
+529,1619,2023-05-03,28400.48,Payment,Grocery,Mobile Payment
+530,740,2024-04-20,22818.45,Deposit,Online Shopping,Mobile Payment
+531,371,2023-05-18,24157.94,Transfer,Entertainment,Online
+532,1801,2024-10-14,-3112.23,Withdrawal,Grocery,Mobile Payment
+533,1136,2023-08-08,838.53,Transfer,Entertainment,ATM
+534,1787,2024-06-03,1425.06,Payment,Bills,ATM
+535,1700,2023-03-26,836.37,Deposit,Bills,ATM
+536,870,2024-01-15,24216.33,Withdrawal,Grocery,Bank Transfer
+537,1704,2024-09-10,-8724.61,Deposit,Online Shopping,Online
+538,1019,2025-01-08,-6956,Payment,Bills,Mobile Payment
+539,221,2024-02-06,956.59,Withdrawal,Bills,ATM
+540,920,2024-05-12,-2005.08,Transfer,Online Shopping,Online
+541,304,2024-11-11,-725.62,Withdrawal,Bills,Online
+542,1727,2025-03-09,21917.73,Deposit,Entertainment,Bank Transfer
+543,1349,2024-06-29,12525.06,Withdrawal,Online Shopping,Mobile Payment
+544,1461,2023-07-29,-9769.17,Payment,Bills,Mobile Payment
+545,438,2024-09-30,7172.91,Payment,Online Shopping,ATM
+546,1194,2024-10-02,6315.4,Withdrawal,Entertainment,ATM
+547,375,2023-09-21,-5442.19,Payment,Bills,Online
+548,1581,2025-01-23,17045.67,Payment,Grocery,Mobile Payment
+549,381,2025-02-01,18083.89,Payment,Bills,Mobile Payment
+550,986,2023-11-07,18835.73,Transfer,Bills,ATM
+551,14,2024-06-15,19138.84,Deposit,,Card Payment
+552,743,2024-11-09,-9997.89,Payment,Grocery,Online
+553,669,2023-09-19,28156.83,Withdrawal,Grocery,Mobile Payment
+554,500,2024-12-02,22568.35,Payment,Grocery,Bank Transfer
+555,1670,2024-11-10,26159.27,Transfer,Entertainment,Bank Transfer
+556,1415,2024-07-07,-9374.27,Withdrawal,Entertainment,Card Payment
+557,1573,2023-07-02,27354.35,Deposit,Entertainment,ATM
+558,565,2024-04-25,22391.54,Withdrawal,Entertainment,ATM
+559,530,2024-10-09,23488.77,Withdrawal,Entertainment,ATM
+560,492,2023-03-30,-6268.5,Withdrawal,Grocery,Bank Transfer
+561,1574,2024-08-11,19551.12,Withdrawal,Online Shopping,ATM
+562,1723,2023-09-16,28396.67,Payment,Entertainment,Bank Transfer
+563,1409,2024-02-19,17141.89,Deposit,Online Shopping,Card Payment
+564,1220,2025-01-02,12822.46,Payment,,Online
+565,755,2023-04-26,27825.19,Transfer,Bills,Mobile Payment
+566,300,2024-09-25,7717.48,Transfer,Entertainment,Card Payment
+567,815,2023-06-22,13971.74,Withdrawal,Bills,Bank Transfer
+568,547,2024-12-30,9053.53,Payment,Online Shopping,Card Payment
+569,727,2025-01-27,27313.85,Payment,Bills,Mobile Payment
+570,731,2024-12-16,-6956.61,Deposit,Bills,Online
+571,828,2025-02-20,10044.79,Deposit,Online Shopping,Mobile Payment
+572,602,2025-01-23,17478.1,Deposit,Bills,Bank Transfer
+573,1332,2023-05-23,21676.26,Payment,Entertainment,Mobile Payment
+574,1276,2023-07-19,13320.75,Deposit,Online Shopping,Card Payment
+575,1032,2024-04-02,26356.71,Deposit,Online Shopping,ATM
+576,768,2023-12-01,27679.66,Deposit,Grocery,Card Payment
+577,875,2023-11-10,-7427.23,Withdrawal,Grocery,Bank Transfer
+578,1232,2025-01-04,6094.82,Transfer,Online Shopping,Online
+579,937,2024-06-17,-9061.64,Transfer,Online Shopping,Mobile Payment
+580,131,2023-03-14,3176.67,Payment,Grocery,Online
+581,1760,2023-06-22,11474.73,Payment,Entertainment,Bank Transfer
+582,1733,2023-09-17,26431.8,Withdrawal,Bills,Mobile Payment
+583,1678,2024-10-19,23862.17,Transfer,Bills,Card Payment
+584,1788,2023-05-23,-4900.01,Deposit,Bills,Card Payment
+585,608,2024-12-30,-6278.79,Deposit,Online Shopping,Bank Transfer
+586,26,2024-11-27,13570.69,Payment,Entertainment,Mobile Payment
+587,1647,2023-12-12,11284.72,Transfer,Grocery,Card Payment
+588,1478,2024-12-08,655.11,Payment,Entertainment,Bank Transfer
+589,635,2024-09-27,25978.12,Payment,Entertainment,Bank Transfer
+590,1210,2024-12-08,27094.66,Deposit,Bills,Online
+591,484,2024-10-17,6104.46,Deposit,Grocery,Card Payment
+592,680,2025-02-09,25612.1,Transfer,Entertainment,Mobile Payment
+593,1075,2024-04-28,5357.96,Payment,Grocery,Card Payment
+594,1915,2024-01-29,19472.67,Withdrawal,Online Shopping,Card Payment
+595,5,2024-07-30,9037.69,Transfer,Bills,Card Payment
+596,589,2024-03-26,-5096.67,Payment,Grocery,Bank Transfer
+597,1184,2024-03-26,27117.37,Transfer,Online Shopping,ATM
+598,208,2023-10-28,8163.86,Transfer,Online Shopping,ATM
+599,257,2023-07-26,19379.48,Transfer,Online Shopping,Online
+600,1229,2023-08-31,4686.95,Withdrawal,Entertainment,Card Payment
+601,1791,2023-04-22,-9244.76,Withdrawal,Entertainment,ATM
+602,1974,2023-03-25,-5978.79,Deposit,Bills,Online
+603,11,2024-10-24,9848.78,Deposit,Bills,Bank Transfer
+604,949,2025-01-27,17598.57,Payment,Online Shopping,Card Payment
+605,8,2023-04-19,3389.41,Transfer,Bills,Mobile Payment
+606,1433,2023-12-22,17819.54,Payment,Entertainment,Bank Transfer
+607,936,2024-10-30,17945.42,Deposit,Bills,Online
+608,32,2024-07-19,18157.44,Withdrawal,Grocery,Bank Transfer
+609,540,2025-01-19,9700.87,Deposit,Entertainment,Mobile Payment
+610,1742,2023-05-19,26595.45,Payment,Online Shopping,Bank Transfer
+611,1005,2024-06-19,9567.86,Deposit,Online Shopping,Online
+612,387,2023-10-04,8010.61,Payment,Bills,Mobile Payment
+613,1252,2023-06-30,-2024.77,Payment,Entertainment,Mobile Payment
+614,640,2024-08-19,2306.2,Payment,Online Shopping,Bank Transfer
+615,1791,2024-08-23,-8306.62,Payment,Online Shopping,Mobile Payment
+616,1499,2024-01-02,15341.41,Deposit,Entertainment,Bank Transfer
+617,1748,2024-09-14,-58.57,Payment,Entertainment,Card Payment
+618,1775,2024-10-28,2166.21,Payment,Online Shopping,Mobile Payment
+619,207,2024-06-28,20832.58,Transfer,Bills,Bank Transfer
+620,1342,2024-07-20,3088.85,Payment,Bills,Card Payment
+621,1819,2024-01-24,-312.16,Deposit,Bills,Mobile Payment
+622,1781,2023-05-31,-3237.69,Payment,Grocery,Card Payment
+623,557,2023-12-02,20994.34,Withdrawal,Entertainment,Mobile Payment
+624,1641,2024-09-25,-4811.75,Withdrawal,Online Shopping,Online
+625,348,2023-08-11,8150.15,Payment,Grocery,Online
+626,793,2023-12-12,10277.2,Withdrawal,Bills,Bank Transfer
+627,234,2024-12-28,17495.6,Withdrawal,Grocery,ATM
+628,1725,2024-01-03,15331.34,Deposit,Online Shopping,Online
+629,1068,2025-02-05,22428.83,Transfer,Online Shopping,ATM
+630,1006,2025-03-02,-8209.94,Withdrawal,Entertainment,Card Payment
+631,737,2024-10-19,1857.63,Withdrawal,Bills,Card Payment
+632,942,2023-04-18,1205.36,Transfer,Bills,ATM
+633,1166,2024-08-07,-4159.32,Transfer,Grocery,Bank Transfer
+634,1672,2025-02-26,1567.13,Withdrawal,Bills,Mobile Payment
+635,176,2023-07-20,2390.61,Payment,Grocery,ATM
+636,1678,2024-02-25,10875.38,Withdrawal,Online Shopping,ATM
+637,449,2024-03-25,16548.18,Payment,Online Shopping,ATM
+638,592,2024-02-27,5244.02,Payment,Online Shopping,ATM
+639,82,2024-04-02,18778.81,Payment,Online Shopping,ATM
+640,135,2024-05-25,3446.61,Transfer,Online Shopping,Bank Transfer
+641,1743,2023-12-03,1611.35,Withdrawal,Grocery,Online
+642,856,2023-11-12,11647.52,Withdrawal,Online Shopping,Mobile Payment
+643,1201,2023-05-24,-9051.35,Deposit,Grocery,Online
+644,1407,2023-07-22,-6808.44,Transfer,Online Shopping,ATM
+645,1267,2025-01-21,6718.78,Deposit,Grocery,Online
+646,1591,2024-06-22,27716.51,Deposit,Grocery,Bank Transfer
+647,1165,2024-09-16,18860.47,Payment,Grocery,Card Payment
+648,1481,2023-09-29,-6474.94,Transfer,Bills,Online
+649,440,2024-11-23,23852.72,Deposit,Grocery,Mobile Payment
+650,1080,2024-08-02,19292.03,Withdrawal,Grocery,Bank Transfer
+651,1551,2024-08-04,14437.86,Deposit,Online Shopping,Card Payment
+652,697,2023-07-20,22811.72,Transfer,Grocery,Bank Transfer
+653,1850,2024-04-28,6164.39,Withdrawal,Grocery,ATM
+654,419,2024-12-06,-1139.96,Withdrawal,Entertainment,Card Payment
+655,88,2024-01-12,10480.94,Withdrawal,Bills,Mobile Payment
+656,1633,2023-04-09,11953.67,Payment,,Card Payment
+657,656,2024-11-03,11533.05,Withdrawal,Online Shopping,Mobile Payment
+658,1032,2023-07-31,12602.95,Payment,Bills,ATM
+659,1501,2024-03-13,27948.2,Payment,Bills,Mobile Payment
+660,215,2023-04-05,26089.82,Deposit,Entertainment,Bank Transfer
+661,1709,2025-03-03,25028.68,Deposit,Bills,Online
+662,1759,2023-07-23,22056.67,Withdrawal,Entertainment,Bank Transfer
+663,552,2023-09-19,27737.12,Transfer,Grocery,Bank Transfer
+664,1521,2023-04-04,-6060.21,Withdrawal,Entertainment,Card Payment
+665,1718,2023-06-15,604.93,Deposit,Bills,ATM
+666,503,2024-12-30,9802.24,Withdrawal,Bills,Online
+667,1806,2023-04-19,23861.38,Deposit,Online Shopping,Mobile Payment
+668,699,2023-05-08,10206.63,Withdrawal,Online Shopping,Card Payment
+669,245,2023-11-10,19921.39,Transfer,Online Shopping,ATM
+670,1502,2023-10-21,-4441.6,Withdrawal,Online Shopping,Online
+671,309,2025-03-05,96.55,Transfer,Bills,Bank Transfer
+672,231,2024-05-05,19271.04,Transfer,Online Shopping,ATM
+673,1407,2025-02-11,-3410.64,Withdrawal,Entertainment,ATM
+674,155,2024-04-06,4054.24,Transfer,Grocery,ATM
+675,1199,2025-02-05,594.65,Transfer,Bills,Mobile Payment
+676,848,2023-04-28,3994.47,Deposit,Online Shopping,Mobile Payment
+677,115,2023-11-14,18332.96,Deposit,Bills,Card Payment
+678,1414,2024-01-31,4713.89,Transfer,Online Shopping,Mobile Payment
+679,311,2024-07-22,12210.53,Payment,Bills,Online
+680,993,2023-05-18,-6002.72,Withdrawal,Online Shopping,Card Payment
+681,300,2024-10-11,22200.71,Transfer,Grocery,Online
+682,1042,2023-09-02,4795.55,Withdrawal,Online Shopping,Bank Transfer
+683,784,2023-09-08,15941.37,Deposit,Entertainment,Mobile Payment
+684,12,2024-11-23,19015.58,Withdrawal,Bills,ATM
+685,1428,2024-09-20,-1613.56,Transfer,Bills,Card Payment
+686,1837,2024-05-02,25387,Transfer,Entertainment,ATM
+687,1728,2023-08-25,14648.97,Transfer,Entertainment,Online
+688,232,2024-05-14,7149.01,Transfer,Grocery,ATM
+689,955,2023-12-10,-2706.59,Payment,Bills,ATM
+690,1629,2023-07-30,27692.04,Payment,Grocery,Bank Transfer
+691,730,2025-01-13,20202.73,Payment,Bills,Bank Transfer
+692,1302,2024-10-21,-1679.02,Transfer,Bills,Mobile Payment
+693,1377,2024-04-14,3508.43,Payment,Grocery,Online
+694,1018,2025-02-22,22386.97,Withdrawal,Bills,Bank Transfer
+695,999,2024-05-09,17827.11,Transfer,Bills,Bank Transfer
+696,303,2024-11-25,20631.37,Deposit,,Mobile Payment
+697,541,2024-02-23,7648.04,Transfer,Online Shopping,Card Payment
+698,470,2023-06-24,18659.05,Withdrawal,Grocery,Mobile Payment
+699,813,2024-06-27,5459.75,Payment,Bills,ATM
+700,77,2023-07-03,-1549.48,Transfer,Entertainment,ATM
+701,1020,2024-03-05,15307.08,Payment,Online Shopping,Bank Transfer
+702,1545,2023-11-25,29040.56,Transfer,Entertainment,Bank Transfer
+703,24,2024-07-01,2424.04,Withdrawal,Online Shopping,Mobile Payment
+704,1039,2024-12-10,8438.78,Transfer,Entertainment,Mobile Payment
+705,676,2023-08-22,16960.05,Payment,Online Shopping,Online
+706,525,2023-07-12,11660.25,Payment,Grocery,ATM
+707,347,2023-12-13,23737.11,Withdrawal,Online Shopping,Mobile Payment
+708,172,2024-01-12,20469.71,Transfer,Online Shopping,Card Payment
+709,1893,2024-04-06,-7668.11,Deposit,Online Shopping,Online
+710,1351,2024-10-09,29936.85,Transfer,Bills,Mobile Payment
+711,712,2024-06-14,20096.1,Withdrawal,Entertainment,Bank Transfer
+712,1509,2024-09-03,24556.13,Deposit,Grocery,Mobile Payment
+713,489,2024-12-19,16047.91,Withdrawal,Entertainment,Bank Transfer
+714,1486,2025-02-25,24251.41,Transfer,Entertainment,Bank Transfer
+715,378,2023-04-23,-5504.68,Deposit,Grocery,Card Payment
+716,1612,2024-12-29,3909.51,Withdrawal,Bills,ATM
+717,1188,2024-10-21,25056.84,Payment,Online Shopping,Mobile Payment
+718,372,2024-09-21,-1933.79,Deposit,Bills,Mobile Payment
+719,1597,2023-04-28,-6870.32,Deposit,Bills,Card Payment
+720,1000,2025-01-26,21524.76,Withdrawal,Online Shopping,Online
+721,977,2023-11-30,23419.45,Payment,Entertainment,Online
+722,1448,2024-08-03,-3493.91,Deposit,Online Shopping,Mobile Payment
+723,757,2024-09-09,24173.84,Withdrawal,Grocery,ATM
+724,477,2023-08-15,17470.71,Deposit,Online Shopping,Card Payment
+725,382,2023-08-20,10803.31,Deposit,,Online
+726,155,2024-12-16,23210.01,Deposit,Bills,Mobile Payment
+727,257,2023-03-19,6769.97,Payment,Bills,ATM
+728,1780,2024-10-13,-2240.24,Transfer,Online Shopping,ATM
+729,674,2024-09-02,1394.11,Transfer,Grocery,ATM
+730,68,2024-11-25,10206.56,Payment,Entertainment,Bank Transfer
+731,344,2024-07-20,11253.23,Payment,Bills,ATM
+732,1301,2024-08-29,22223.23,Withdrawal,Online Shopping,Mobile Payment
+733,673,2025-02-12,21654.11,Deposit,Grocery,Card Payment
+734,391,2024-07-04,13254.66,Payment,Grocery,Mobile Payment
+735,1473,2024-06-05,21231.42,Withdrawal,Bills,ATM
+736,259,2024-10-01,-2329.06,Transfer,Bills,Card Payment
+737,307,2024-09-27,-7997.42,Transfer,Entertainment,Online
+738,1871,2023-10-26,24945.35,Transfer,Grocery,Online
+739,1119,2024-09-29,-6977.82,Transfer,Entertainment,Mobile Payment
+740,950,2024-07-31,-132.46,Withdrawal,Grocery,Card Payment
+741,1488,2024-05-08,17812.76,Deposit,Grocery,Mobile Payment
+742,970,2023-07-21,6377.92,Withdrawal,Online Shopping,Card Payment
+743,246,2023-08-22,25052.56,Deposit,Bills,Card Payment
+744,733,2024-06-25,1919.19,Transfer,Grocery,Mobile Payment
+745,1659,2023-11-01,-9525.15,Payment,Entertainment,Card Payment
+746,187,2024-05-20,2026.23,Payment,Bills,ATM
+747,1798,2023-09-27,13123,Payment,Entertainment,Card Payment
+748,925,2024-12-05,5037.54,Deposit,Bills,Card Payment
+749,785,2024-08-03,11394.91,Transfer,Bills,Mobile Payment
+750,1397,2024-03-12,25063.92,Withdrawal,Grocery,Online
+751,1596,2024-06-27,26499.4,Payment,Online Shopping,Bank Transfer
+752,1430,2024-10-09,638.96,Deposit,,Card Payment
+753,408,2023-07-14,8485.62,Payment,Bills,Bank Transfer
+754,1149,2025-02-28,11965.76,Withdrawal,Grocery,Card Payment
+755,1361,2023-12-28,27964.5,Transfer,Grocery,Mobile Payment
+756,341,2024-07-17,29944.69,Withdrawal,Bills,Mobile Payment
+757,563,2024-07-25,-583.71,Transfer,Bills,Card Payment
+758,1202,2024-07-20,19079.19,Transfer,Grocery,Mobile Payment
+759,651,2023-06-24,5121.24,Transfer,Grocery,Mobile Payment
+760,952,2024-03-21,-9675.67,Payment,Grocery,Card Payment
+761,1863,2024-02-02,-9629.9,Withdrawal,Entertainment,Online
+762,1194,2024-07-04,8422.64,Payment,Grocery,Card Payment
+763,1063,2024-10-16,9533.4,Withdrawal,Entertainment,Online
+764,69,2025-03-05,-9097.21,Deposit,Online Shopping,Mobile Payment
+765,1260,2023-04-12,17477.1,Deposit,Entertainment,Online
+766,1584,2025-02-22,1760.14,Withdrawal,Grocery,Mobile Payment
+767,381,2024-11-03,12395.72,Withdrawal,Online Shopping,Online
+768,57,2024-11-07,2036.76,Withdrawal,Entertainment,Online
+769,1301,2024-12-04,-3314.63,Withdrawal,,Card Payment
+770,850,2025-01-18,6286.95,Transfer,Bills,ATM
+771,1123,2025-01-17,-709.07,Payment,Online Shopping,Mobile Payment
+772,916,2023-04-07,11392.04,Transfer,Bills,Card Payment
+773,1551,2024-01-11,-2046.86,Payment,Online Shopping,Online
+774,325,2025-02-03,10336.24,Payment,Entertainment,Card Payment
+775,461,2023-11-22,-3704.86,Payment,Bills,Bank Transfer
+776,179,2024-09-29,16838.99,Transfer,Grocery,Card Payment
+777,844,2024-01-20,20157.51,Withdrawal,Entertainment,Bank Transfer
+778,574,2023-03-15,-5584.23,Transfer,Online Shopping,Bank Transfer
+779,119,2023-11-07,8712.1,Transfer,Online Shopping,Card Payment
+780,1493,2023-04-23,-7165.13,Payment,,Mobile Payment
+781,549,2023-12-15,13927.3,Deposit,Bills,Mobile Payment
+782,646,2023-07-02,576.17,Deposit,Online Shopping,Mobile Payment
+783,1479,2024-03-30,11104.98,Transfer,Entertainment,ATM
+784,26,2025-02-01,10698.44,Payment,Bills,Bank Transfer
+785,1514,2023-07-05,26974.17,Transfer,Grocery,Card Payment
+786,1032,2023-05-10,11963.33,Transfer,Online Shopping,Mobile Payment
+787,969,2024-04-25,13319.94,Withdrawal,Grocery,Mobile Payment
+788,1540,2024-09-18,6066.13,Payment,Online Shopping,Card Payment
+789,533,2024-12-09,27963.18,Deposit,Grocery,Bank Transfer
+790,1951,2023-04-22,21087.44,Deposit,Entertainment,Card Payment
+791,149,2024-11-29,1416.21,Deposit,Online Shopping,ATM
+792,1512,2023-11-05,23768.38,Transfer,Entertainment,ATM
+793,1049,2023-08-29,7295.85,Payment,Bills,Card Payment
+794,655,2024-03-08,23146.69,Withdrawal,Online Shopping,Bank Transfer
+795,1781,2023-04-07,22915.52,Deposit,Entertainment,Mobile Payment
+796,1955,2023-11-10,-2445.19,Payment,Grocery,ATM
+797,945,2023-08-25,18045.65,Deposit,Entertainment,ATM
+798,555,2024-07-12,1625.72,Withdrawal,Online Shopping,Bank Transfer
+799,425,2023-05-26,1899.71,Payment,Entertainment,ATM
+800,293,2023-04-20,1853.92,Transfer,Grocery,ATM
+801,1209,2024-10-30,19022.73,Transfer,Grocery,Bank Transfer
+802,554,2023-07-20,-806.96,Deposit,Grocery,Card Payment
+803,431,2023-11-20,-9963.77,Deposit,Bills,Mobile Payment
+804,604,2023-07-03,18609.47,Payment,Online Shopping,Mobile Payment
+805,317,2023-11-04,-3152.61,Withdrawal,Grocery,ATM
+806,398,2025-02-09,-5820.7,Deposit,Bills,Mobile Payment
+807,1348,2023-09-22,-499.36,Payment,Grocery,Card Payment
+808,1589,2023-10-25,5196.02,Withdrawal,Entertainment,ATM
+809,596,2023-11-10,9036.25,Deposit,Online Shopping,Mobile Payment
+810,546,2023-05-02,-8217.2,Deposit,Entertainment,Online
+811,76,2025-03-02,28822.93,Payment,Bills,Online
+812,865,2024-05-26,18642.52,Deposit,Entertainment,Online
+813,1944,2023-08-10,2927.76,Transfer,Entertainment,Online
+814,916,2024-11-26,2747.89,Withdrawal,Grocery,Online
+815,709,2024-05-15,7941.7,Withdrawal,Entertainment,ATM
+816,486,2024-06-02,15049.79,Transfer,Grocery,Bank Transfer
+817,1822,2024-06-01,-4145.08,Payment,Grocery,Bank Transfer
+818,1112,2024-12-03,-2442.81,Transfer,Online Shopping,ATM
+819,747,2023-07-07,24377.38,Transfer,Bills,ATM
+820,1256,2025-01-02,250.2,Withdrawal,Bills,Card Payment
+821,1031,2023-11-30,5207.8,Payment,Bills,Bank Transfer
+822,1828,2024-12-30,24850.87,Deposit,Grocery,Online
+823,550,2024-11-06,16525.91,Transfer,Bills,ATM
+824,976,2024-06-14,3668.48,Transfer,Grocery,Online
+825,1076,2023-12-15,17347.98,Payment,Online Shopping,Bank Transfer
+826,1679,2024-04-16,-9212.67,Transfer,Bills,Mobile Payment
+827,942,2024-05-28,19425.71,Payment,Grocery,Mobile Payment
+828,919,2023-06-25,9480.64,Deposit,Bills,ATM
+829,1420,2023-11-25,22527.29,Payment,Bills,Card Payment
+830,1245,2024-04-09,28185.51,Deposit,Online Shopping,Online
+831,1452,2023-04-07,27031.54,Payment,Entertainment,ATM
+832,1776,2023-10-10,26370.6,Transfer,Bills,Card Payment
+833,1167,2025-02-05,10486.8,Deposit,Online Shopping,Online
+834,1885,2024-03-27,4405.68,Transfer,Bills,Bank Transfer
+835,363,2024-02-23,8601.41,Deposit,Bills,Mobile Payment
+836,382,2023-06-15,17595.84,Payment,Bills,Card Payment
+837,1585,2023-07-05,25359.91,Payment,Bills,Online
+838,1301,2024-03-11,-1720.55,Payment,Entertainment,ATM
+839,271,2024-12-22,26727.73,Withdrawal,,Online
+840,1038,2024-10-31,22607.21,Withdrawal,Bills,ATM
+841,298,2024-01-31,29154.24,Deposit,Bills,Mobile Payment
+842,1004,2023-08-31,25210.07,Withdrawal,Online Shopping,Mobile Payment
+843,1488,2023-07-15,1197.49,Payment,Online Shopping,Online
+844,1551,2023-10-18,-5761.76,Withdrawal,Grocery,Online
+845,234,2024-11-28,-5510.36,Withdrawal,Entertainment,ATM
+846,575,2024-08-04,1648.93,Transfer,Bills,ATM
+847,1732,2024-01-11,14567.35,Deposit,Entertainment,Card Payment
+848,27,2024-01-27,22172.81,Deposit,Online Shopping,Card Payment
+849,1495,2023-08-17,25970.01,Deposit,Entertainment,Card Payment
+850,93,2023-10-23,14950.14,Withdrawal,Entertainment,Online
+851,617,2024-09-24,-9774.75,Payment,Bills,Card Payment
+852,309,2023-12-07,-2547.33,Transfer,Bills,Online
+853,52,2023-07-04,-6010.95,Deposit,Online Shopping,Mobile Payment
+854,319,2024-08-25,4532.98,Withdrawal,Bills,Bank Transfer
+855,1993,2024-04-19,10054.04,Payment,Online Shopping,Mobile Payment
+856,181,2024-12-03,-8264.11,Transfer,Online Shopping,Online
+857,1593,2024-08-02,3939.12,Transfer,Grocery,Card Payment
+858,1144,2024-01-05,-2832.81,Deposit,Grocery,Bank Transfer
+859,1844,2023-09-23,15882.81,Deposit,Grocery,ATM
+860,875,2024-06-08,8570.89,Payment,Entertainment,ATM
+861,1067,2024-09-03,9812.71,Withdrawal,Grocery,ATM
+862,647,2023-10-19,7107.67,Payment,Bills,Card Payment
+863,1909,2024-09-18,28240.79,Deposit,Bills,ATM
+864,1962,2024-05-11,-1410.59,Payment,Grocery,Card Payment
+865,1284,2023-04-08,10666.57,Withdrawal,Entertainment,Card Payment
+866,197,2023-10-28,19440.69,Transfer,Online Shopping,ATM
+867,645,2025-02-17,12273.78,Transfer,Entertainment,ATM
+868,971,2024-07-13,27160.84,Transfer,Entertainment,Bank Transfer
+869,255,2023-12-31,5118.73,Transfer,Online Shopping,Bank Transfer
+870,732,2024-03-25,8547.03,Deposit,Online Shopping,Card Payment
+871,336,2024-08-18,-6459.11,Deposit,Online Shopping,Bank Transfer
+872,1577,2023-11-07,14359.96,Withdrawal,Bills,Card Payment
+873,1526,2023-05-24,1528.48,Withdrawal,Online Shopping,Online
+874,990,2023-12-21,-3587.64,Withdrawal,Online Shopping,Card Payment
+875,900,2023-10-25,11781.25,Withdrawal,Entertainment,Card Payment
+876,1279,2023-08-19,11292.41,Payment,Entertainment,Bank Transfer
+877,514,2023-07-22,-6965.13,Withdrawal,Grocery,Online
+878,1731,2024-01-21,17928.62,Transfer,Entertainment,Mobile Payment
+879,242,2023-07-07,14950.89,Transfer,Online Shopping,Mobile Payment
+880,149,2024-01-21,-2439.31,Transfer,Bills,Mobile Payment
+881,1734,2024-01-18,8777.39,Payment,Entertainment,Online
+882,1323,2023-09-17,18812.92,Withdrawal,Entertainment,ATM
+883,757,2023-11-25,11177.43,Transfer,Online Shopping,Online
+884,1874,2023-04-02,5819.56,Transfer,Entertainment,Bank Transfer
+885,620,2023-06-15,2893.54,Transfer,Entertainment,Card Payment
+886,453,2024-10-30,14415.75,Transfer,Online Shopping,Card Payment
+887,1417,2023-12-01,27564.35,Deposit,Entertainment,Bank Transfer
+888,212,2023-07-04,16869.79,Withdrawal,Bills,Bank Transfer
+889,668,2023-04-20,-7010.16,Withdrawal,Grocery,Card Payment
+890,1562,2024-04-11,8427.4,Payment,Entertainment,ATM
+891,594,2024-08-27,25632.97,Deposit,Bills,ATM
+892,1619,2023-09-09,-6221.5,Payment,Entertainment,ATM
+893,131,2023-10-30,29555.03,Transfer,Grocery,Bank Transfer
+894,1353,2025-01-25,27962.78,Payment,Online Shopping,Card Payment
+895,612,2024-11-14,-6869.02,Transfer,Grocery,Card Payment
+896,256,2024-09-24,27336.53,Transfer,Entertainment,Card Payment
+897,1503,2024-04-13,4525.3,Withdrawal,Grocery,Online
+898,561,2024-06-11,23788.37,Withdrawal,Grocery,Online
+899,1937,2025-01-05,6735.33,Withdrawal,Online Shopping,Mobile Payment
+900,63,2024-12-31,7634.2,Withdrawal,Entertainment,Online
+901,1335,2023-04-21,15369.72,Withdrawal,Grocery,ATM
+902,407,2024-11-09,20979.1,Deposit,Grocery,ATM
+903,802,2025-01-08,-8648.43,Withdrawal,Online Shopping,ATM
+904,1129,2024-12-22,13726.24,Payment,Bills,ATM
+905,1641,2024-02-26,-2530.68,Transfer,Entertainment,Mobile Payment
+906,1861,2024-12-29,3837.98,Withdrawal,Bills,ATM
+907,15,2024-06-08,3918.75,Deposit,Bills,Bank Transfer
+908,1711,2023-07-11,8762.41,Payment,Online Shopping,Bank Transfer
+909,259,2025-03-05,3365.46,Payment,Online Shopping,Bank Transfer
+910,723,2025-02-18,-5705.56,Transfer,,Online
+911,1436,2025-02-15,-4174.85,Payment,Bills,Card Payment
+912,1283,2023-10-22,-8662.48,Payment,Grocery,Mobile Payment
+913,614,2024-10-16,8809.96,Payment,Bills,Bank Transfer
+914,1284,2024-11-28,28177.91,Payment,Online Shopping,Bank Transfer
+915,1880,2023-05-01,-5372.99,Deposit,Grocery,ATM
+916,1695,2024-08-30,27850.58,Transfer,Grocery,Bank Transfer
+917,1069,2025-01-15,19334.46,Withdrawal,Online Shopping,ATM
+918,1979,2024-05-06,15499.95,Payment,Grocery,ATM
+919,813,2023-05-25,15811.11,Deposit,Bills,Card Payment
+920,1787,2024-06-22,23069.11,Transfer,Online Shopping,Online
+921,331,2023-08-02,-5723.21,Withdrawal,Entertainment,ATM
+922,165,2024-08-13,10190.17,Transfer,Online Shopping,ATM
+923,1217,2023-04-06,17883.65,Deposit,Entertainment,Card Payment
+924,1545,2024-11-28,13472.82,Deposit,Entertainment,ATM
+925,1425,2023-09-05,23311.16,Deposit,Online Shopping,Bank Transfer
+926,1398,2024-01-28,-7109.13,Payment,,Online
+927,1089,2023-07-10,17628.04,Deposit,Entertainment,Mobile Payment
+928,387,2024-12-08,11361.11,Withdrawal,Entertainment,Bank Transfer
+929,1519,2024-07-10,5166.43,Payment,Grocery,Online
+930,1818,2025-01-17,3611,Transfer,Online Shopping,Bank Transfer
+931,1717,2024-11-22,14833.31,Withdrawal,Online Shopping,ATM
+932,1439,2024-09-11,25639.81,Payment,Grocery,Card Payment
+933,1818,2025-02-06,9847.04,Deposit,Online Shopping,Mobile Payment
+934,1815,2023-06-21,22988.93,Transfer,Grocery,Bank Transfer
+935,1054,2024-10-02,6086.26,Deposit,Grocery,ATM
+936,1290,2023-03-14,-5904.22,Withdrawal,Online Shopping,Mobile Payment
+937,328,2024-07-31,-7539.77,Withdrawal,Bills,Mobile Payment
+938,1516,2023-12-10,-7946.63,Payment,Entertainment,Bank Transfer
+939,1241,2023-09-13,5206.01,Withdrawal,Online Shopping,ATM
+940,320,2023-04-07,3489.51,Transfer,Bills,Card Payment
+941,1942,2024-06-12,18717.48,Payment,Grocery,Bank Transfer
+942,399,2023-12-12,19712.86,Transfer,Bills,Mobile Payment
+943,1915,2023-07-03,-7965.84,Deposit,Online Shopping,Mobile Payment
+944,105,2024-07-13,-1155.07,Transfer,Online Shopping,Online
+945,696,2023-09-15,970.47,Transfer,Bills,ATM
+946,1017,2023-05-30,11904.48,Withdrawal,Online Shopping,Online
+947,330,2023-06-03,-4219.39,Deposit,Entertainment,Card Payment
+948,660,2024-03-03,-4642.35,Withdrawal,Bills,Bank Transfer
+949,1641,2023-03-29,27751.56,Deposit,Grocery,Mobile Payment
+950,1071,2023-06-07,22168.12,Deposit,Bills,ATM
+951,599,2024-06-03,-2773.8,Transfer,Bills,Mobile Payment
+952,821,2025-02-19,6262.71,Withdrawal,Bills,Online
+953,1973,2025-02-11,4224.88,Transfer,Bills,Online
+954,641,2023-08-22,21640.16,Transfer,Grocery,Bank Transfer
+955,1794,2023-07-31,10408.52,Transfer,Grocery,ATM
+956,314,2023-12-28,-4886.01,Deposit,Grocery,ATM
+957,1171,2024-09-22,19559.68,Withdrawal,Bills,Bank Transfer
+958,1982,2023-09-23,5875.52,Withdrawal,Entertainment,Online
+959,462,2023-08-01,516.97,Transfer,Entertainment,Online
+960,1608,2023-04-17,5019.94,Deposit,Grocery,Online
+961,486,2024-08-21,9910.26,Withdrawal,Entertainment,Mobile Payment
+962,1676,2024-02-11,3724.62,Payment,Entertainment,Card Payment
+963,410,2023-07-30,-323.77,Withdrawal,,Online
+964,27,2023-11-24,5940.08,Transfer,Entertainment,Card Payment
+965,1053,2023-04-12,-9233.08,Payment,Entertainment,Card Payment
+966,271,2023-11-28,20899.91,Deposit,Online Shopping,ATM
+967,686,2024-04-29,-3162.2,Payment,Grocery,Bank Transfer
+968,501,2023-07-20,-8243.82,Payment,Bills,Mobile Payment
+969,1277,2024-02-01,16147.95,Transfer,Entertainment,Card Payment
+970,385,2024-01-19,20957.45,Withdrawal,Online Shopping,Mobile Payment
+971,60,2023-10-13,22553.17,Deposit,Bills,ATM
+972,1131,2024-01-09,9740.37,Payment,Online Shopping,Online
+973,220,2024-07-09,-1785.27,Transfer,Entertainment,Card Payment
+974,1465,2023-07-30,19489.11,Withdrawal,Entertainment,Bank Transfer
+975,771,2024-07-06,17988.52,Payment,Entertainment,ATM
+976,1907,2024-02-25,-149.17,Transfer,Entertainment,Mobile Payment
+977,1682,2023-04-16,26136.31,Transfer,Bills,Online
+978,564,2024-06-06,-5825.14,Transfer,Bills,Mobile Payment
+979,1596,2024-11-29,29307.53,Deposit,Online Shopping,Bank Transfer
+980,546,2023-07-24,24409.91,Withdrawal,Grocery,Card Payment
+981,96,2024-09-20,17515.95,Payment,Entertainment,Bank Transfer
+982,989,2023-11-03,27550,Withdrawal,Online Shopping,Mobile Payment
+983,1113,2023-09-23,18892.45,Withdrawal,,Mobile Payment
+984,828,2023-07-21,-2381.72,Payment,Online Shopping,Bank Transfer
+985,1946,2024-06-29,7686.25,Withdrawal,Entertainment,Bank Transfer
+986,231,2024-05-17,-7139.88,Deposit,Entertainment,Bank Transfer
+987,968,2023-08-26,5586.3,Payment,Online Shopping,Online
+988,275,2023-06-07,19664.12,Payment,Entertainment,Mobile Payment
+989,246,2025-03-10,5457.73,Transfer,Online Shopping,ATM
+990,111,2023-07-20,3211.77,Withdrawal,Bills,Online
+991,234,2023-12-08,13814.23,Payment,Entertainment,Online
+992,1302,2023-10-15,24888.18,Payment,Bills,Online
+993,1501,2023-10-15,-8096.67,Deposit,Grocery,ATM
+994,417,2023-05-03,5418.82,Transfer,Entertainment,Bank Transfer
+995,678,2024-03-17,-3670.37,Payment,Grocery,Mobile Payment
+996,1152,2024-09-23,17814.17,Deposit,Online Shopping,Card Payment
+997,1261,2023-09-16,-5771.02,Payment,Entertainment,Card Payment
+998,803,2024-10-04,16592.31,Payment,Entertainment,Mobile Payment
+999,619,2025-01-27,1447.23,Payment,Entertainment,ATM
+1000,1152,2024-03-21,-2043.33,Deposit,Grocery,Card Payment

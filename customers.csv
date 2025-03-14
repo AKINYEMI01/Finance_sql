@@ -1,0 +1,1001 @@
+CustomerID,FirstName,LastName,DateOfBirth,IncomeBracket,AccountType
+1,Samantha,Brookes,1972-07-15,High,Joint
+2,Clare,Peters,1941-04-02,Medium,Savings
+3,Dean,Matthews,1986-09-01,Medium,Personal Current
+4,Kathryn,Hill,1974-06-28,High,Student
+5,Victoria,Evans,1965-01-26,High,Personal Current
+6,Phillip,Khan,1978-01-22,Low,Personal Current
+7,Eleanor,O'Brien,1965-03-30,Low,Joint
+8,Howard,James,1978-09-02,High,Personal Current
+9,Duncan,Richardson,1930-01-03,Medium,Personal Current
+10,Daniel,Fisher,1957-11-02,Low,Savings
+11,Jack,Hughes,1959-05-17,Medium,Savings
+12,Francis,Bibi,1967-05-28,High,Savings
+13,Adrian,Jones,1983-06-01,Medium,Personal Current
+14,Allan,Humphreys,1949-03-26,Medium,Personal Current
+15,Marc,Curtis,1929-01-22,High,Personal Current
+16,Rachel,Martin,1927-10-17,Low,Personal Current
+17,Rosemary,Perry,1944-09-09,Low,Savings
+18,Max,Rogers,1999-04-12,Medium,Business
+19,Dean,Walters,1928-12-26,High,Joint
+20,Raymond,Clarke,1954-08-22,Low,Joint
+21,Peter,Barnes,1934-05-07,Medium,Student
+22,Jack,Bailey,1928-07-14,Medium,Savings
+23,Aimee,Walton,1927-10-17,Medium,Personal Current
+24,Lynne,Henderson,1953-08-26,Medium,Savings
+25,Jordan,O'Brien,1957-05-23,High,Student
+26,Sheila,Young,1988-11-11,Medium,Personal Current
+27,Naomi,Price,1966-06-28,Medium,Personal Current
+28,Joyce,O'Sullivan,1962-11-11,Medium,Business
+29,Alison,Johnson,1973-01-31,Medium,Personal Current
+30,Bryan,Russell,1957-01-02,Low,Personal Current
+31,Janet,Thompson,2003-10-29,Low,Student
+32,Annette,Saunders,1960-12-19,Medium,Joint
+33,Carly,Cole,1945-04-17,Low,Savings
+34,Amanda,Harvey,1940-05-21,Low,Savings
+35,Jacqueline,Wilson,1976-08-17,Medium,Personal Current
+36,Grace,Edwards,1964-09-22,Medium,Savings
+37,Douglas,Rogers,1981-06-02,Low,Personal Current
+38,Richard,Anderson,1989-06-14,Medium,Business
+39,Clive,Hall,1942-02-12,Medium,Savings
+40,Frederick,Doyle,2002-01-25,Low,Personal Current
+41,Dale,Ellis,1995-11-09,High,Personal Current
+42,Maurice,Phillips,1979-08-21,Medium,Personal Current
+43,Dennis,Lewis,1929-08-03,Medium,Personal Current
+44,Iain,Farmer,1928-11-03,Medium,Personal Current
+45,Scott,Harris,1998-05-18,High,Savings
+46,Tom,Henderson,1994-06-30,Medium,Student
+47,Mohammad,Whitehouse,1984-02-08,Medium,Personal Current
+48,Steven,Price,1978-04-18,Medium,Personal Current
+49,Rachel,Lane,1990-12-15,Low,Personal Current
+50,Olivia,Lambert,1996-07-03,Low,Business
+51,Amy,O'Connor,1966-12-07,Medium,Personal Current
+52,Louise,Sullivan,1939-09-13,Medium,Savings
+53,Molly,Jones,2005-10-12,Medium,Business
+54,Lucy,Nash,1980-06-22,Low,Savings
+55,Leslie,Davies,1986-05-28,Medium,Business
+56,Lesley,Parsons,1946-01-28,Low,Personal Current
+57,Nicole,Ward,1927-12-19,Medium,Business
+58,Gerard,Smith,1988-06-30,Medium,Personal Current
+59,Sylvia,Kent,1985-03-15,Medium,Personal Current
+60,Edward,Akhtar,1959-03-28,Medium,Savings
+61,Janice,Jackson,1948-02-01,Medium,Business
+62,Brandon,Briggs,1953-12-19,Medium,Business
+63,Jill,Jones,1962-01-12,Medium,Personal Current
+64,Tina,Griffin,1980-04-15,Low,Personal Current
+65,Valerie,Coleman,1966-07-16,Medium,Business
+66,Rita,Parker,1954-10-05,Medium,Personal Current
+67,Leonard,Bevan,1960-10-25,Medium,Joint
+68,Marion,Baxter,1956-10-10,Medium,Business
+69,Eileen,Wright,1931-11-18,High,Student
+70,Carly,Akhtar,1957-11-26,High,Personal Current
+71,Andrea,Fox,1965-06-03,Low,Student
+72,Wendy,Porter,2003-10-10,Low,Personal Current
+73,Gareth,Nash,1985-08-28,Medium,Business
+74,Luke,Mason,1976-04-07,Low,Student
+75,Josephine,Clarke,1976-10-15,Medium,Business
+76,Graeme,Burke,1986-12-01,High,Personal Current
+77,Stuart,Ellis,1985-06-16,Low,Business
+78,Donna,Archer,1932-04-29,Low,Student
+79,Alex,Miles,1938-10-12,Low,Personal Current
+80,Robin,Taylor,1941-03-30,Medium,Personal Current
+81,James,Turnbull,1931-12-19,Medium,Joint
+82,Jayne,White,1979-06-05,Low,Savings
+83,Zoe,Randall,1936-10-29,High,Business
+84,Hannah,Jones,1928-03-06,Medium,Personal Current
+85,Alice,Campbell,1996-04-09,Low,Personal Current
+86,Rita,Wood,1998-02-13,Medium,Savings
+87,Declan,Todd,1954-05-14,Medium,Personal Current
+88,Connor,Goodwin,1948-10-08,Low,Student
+89,Vincent,Bond,1973-08-16,Low,Business
+90,Victoria,Cox,1972-05-14,Low,Business
+91,Alexander,Roberts,1941-08-02,Low,Business
+92,Kevin,Scott,1926-03-07,High,Joint
+93,Amber,White,2003-06-03,High,Personal Current
+94,Charlene,Jones,1956-12-05,Low,Student
+95,Vanessa,Walker,2000-01-04,Low,Savings
+96,Sam,Gibson,1973-12-27,Low,Business
+97,Ann,Jenkins,1946-01-05,Low,Personal Current
+98,Joshua,Hargreaves,1927-12-17,High,Student
+99,Jessica,Moore,1959-01-28,Low,Personal Current
+100,Irene,Macdonald,1966-09-30,Low,Savings
+101,Michael,Walsh,1964-09-21,Low,Business
+102,Jayne,Farmer,1926-08-15,Medium,Joint
+103,Lynn,Shepherd,1976-07-03,Low,Personal Current
+104,Gerald,Frost,1990-03-17,Medium,Business
+105,Abdul,Jones,1939-09-22,Low,Savings
+106,Shane,Foster,1995-02-28,Medium,Personal Current
+107,Leonard,Baker,1959-03-10,Medium,Personal Current
+108,Gillian,Gibson,1974-10-18,Low,Personal Current
+109,Toby,Peters,1959-03-07,Medium,Personal Current
+110,Elizabeth,Davies,1985-06-20,High,Business
+111,Dale,Stephens,1924-05-06,High,Student
+112,Russell,Jenkins,1986-06-16,Medium,Business
+113,Colin,Pugh,1993-02-04,Medium,Personal Current
+114,Timothy,Green,1991-06-28,High,Personal Current
+115,Ross,Allen,1946-09-06,Medium,Student
+116,Jean,Roberts,1927-09-30,Low,Personal Current
+117,Geoffrey,Cole,1943-02-23,High,Student
+118,Jessica,Reed,1963-07-23,Low,Business
+119,Gail,Kelly,1997-01-08,Medium,Savings
+120,Lucy,Oliver,1936-01-18,Low,Savings
+121,Scott,Dunn,1934-05-13,Low,Personal Current
+122,Lorraine,Coleman,1959-01-06,Low,Personal Current
+123,Lesley,Richards,1963-01-27,Medium,Personal Current
+124,Jill,Barlow,1977-07-18,Low,Savings
+125,Elliott,Collier,1944-02-15,Low,Personal Current
+126,Brenda,Nixon,1939-02-19,Low,Personal Current
+127,Ashley,Hewitt,1946-01-17,Medium,Savings
+128,Jonathan,Chapman,1976-10-28,High,Personal Current
+129,Duncan,Hall,2002-09-17,Medium,Personal Current
+130,Tina,Freeman,1948-04-02,Medium,Personal Current
+131,Robert,Wilson,2001-09-15,High,Business
+132,Leigh,Bell,1924-05-21,Medium,Savings
+133,Leslie,Parkes,1981-09-18,Low,Student
+134,Darren,Khan,1957-08-13,Low,Personal Current
+135,Simon,Shah,1930-02-15,Low,Business
+136,Karl,Green,1984-06-28,Low,Savings
+137,Darren,Stevens,1966-02-02,Medium,Personal Current
+138,Arthur,Richardson,1949-02-25,Medium,Business
+139,Nicole,Wilkins,1950-07-22,Low,Personal Current
+140,Leon,Lawrence,1952-01-03,Medium,Savings
+141,Melanie,Smith,1979-08-15,Medium,Savings
+142,Teresa,Davies,1954-07-28,Low,Personal Current
+143,Emma,Begum,2005-01-19,High,Business
+144,Terence,Graham,1962-11-07,Medium,Joint
+145,Cameron,Young,2002-10-15,Low,Savings
+146,Oliver,Armstrong,1996-08-16,Medium,Personal Current
+147,Maureen,Taylor,2001-09-27,Medium,Personal Current
+148,Malcolm,Howarth,1992-02-15,Medium,Personal Current
+149,Sean,Davies,1985-11-12,Medium,Joint
+150,Sally,Thompson,1975-09-03,Medium,Personal Current
+151,Jonathan,Tucker,2000-10-23,Medium,Savings
+152,Danielle,Young,1968-05-25,Low,Joint
+153,Marcus,Thompson,1924-06-23,Low,Personal Current
+154,Ross,Smith,1986-07-08,Low,Savings
+155,Elliott,Wilson,1994-12-10,Medium,Personal Current
+156,Andrea,Evans,1951-07-22,Low,Business
+157,Jay,Robinson,1972-01-10,High,Student
+158,Charles,Lewis,1974-07-15,Medium,Personal Current
+159,Graeme,Glover,1929-11-17,High,Personal Current
+160,Joshua,Begum,1981-11-15,High,Student
+161,Howard,Murray,1990-08-23,High,Joint
+162,Bernard,Dunn,2004-03-01,High,Joint
+163,Rachael,Bull,1936-10-25,Medium,Savings
+164,Annette,Turner,1984-07-26,Medium,Personal Current
+165,Jean,Sharpe,1928-09-11,Low,Personal Current
+166,Frederick,Turnbull,1942-11-01,Low,Personal Current
+167,Kim,Johnson,1950-07-13,Medium,Savings
+168,David,Turner,1954-11-27,Medium,Business
+169,William,Roberts,1946-06-05,Low,Student
+170,Derek,Cole,1939-02-16,Medium,Personal Current
+171,Trevor,Allen,1982-04-23,High,Savings
+172,Shirley,O'Sullivan,1983-11-22,Medium,Business
+173,Geoffrey,Warren,1963-07-24,Medium,Joint
+174,Megan,Davies,1956-11-25,High,Business
+175,Neil,Thomas,1941-11-22,High,Personal Current
+176,Max,Berry,1929-06-13,Medium,Personal Current
+177,Stephanie,Singh,1932-04-18,High,Business
+178,Pauline,Sheppard,1931-01-04,High,Savings
+179,Callum,Wright,1983-10-10,High,Personal Current
+180,Stewart,Hill,1956-10-14,Low,Joint
+181,Carl,Scott,1999-07-22,Medium,Business
+182,Lisa,Cox,1987-05-13,Low,Savings
+183,Joyce,Price,1930-05-20,Low,Savings
+184,Max,Barton,1978-10-23,Medium,Personal Current
+185,Lesley,Leach,2005-09-05,Medium,Savings
+186,Josephine,Simpson,1938-04-06,High,Savings
+187,Roger,Farmer,1972-03-08,Low,Business
+188,Glenn,Williams,1934-10-24,High,Business
+189,Brandon,Bell,1940-10-07,Medium,Business
+190,Kirsty,Cooke,1972-04-17,Medium,Personal Current
+191,Sarah,Griffiths,1931-12-22,High,Joint
+192,Frank,Stanley,1976-08-18,Medium,Joint
+193,Nicholas,Jones,1925-08-13,Low,Savings
+194,Joseph,Carpenter,1978-07-07,High,Joint
+195,Jeffrey,Dobson,2003-12-29,Low,Business
+196,Jemma,Johnson,1967-08-31,Low,Student
+197,Melanie,Davies,1972-02-06,High,Savings
+198,Derek,Howarth,1929-05-15,Low,Personal Current
+199,Jamie,Clark,1950-09-01,Medium,Personal Current
+200,Abigail,Knight,1971-08-08,Low,Savings
+201,Fiona,Lee,1946-03-02,High,Joint
+202,Dawn,Scott,2000-11-08,Low,Personal Current
+203,Anna,Johnson,1943-06-04,High,Personal Current
+204,Clare,Knight,2001-04-14,Medium,Savings
+205,Donald,Craig,1988-06-13,Low,Personal Current
+206,Jay,Morris,1926-11-27,Medium,Personal Current
+207,Katie,Adams,1984-02-28,High,Personal Current
+208,Rachael,Gibbons,1931-09-26,Medium,Personal Current
+209,Kim,Clarke,1979-05-16,Low,Personal Current
+210,Louise,Atkinson,2005-03-17,Medium,Personal Current
+211,Helen,Hayes,1995-01-04,Medium,Student
+212,Stuart,Green,1925-08-16,Medium,Business
+213,Dean,Fisher,1981-10-30,Medium,Savings
+214,Geoffrey,Turner,1940-03-19,Medium,Joint
+215,Gareth,Taylor,2000-04-29,Low,Personal Current
+216,Arthur,Rose,2005-06-27,Medium,Personal Current
+217,Grace,Jones,1965-07-17,Medium,Joint
+218,Mathew,Turner,1931-12-05,Low,Personal Current
+219,Natalie,Davies,1974-11-17,High,Student
+220,Sheila,Cooper,1949-07-27,Medium,Savings
+221,Ian,Bailey,1929-09-05,Medium,Savings
+222,Leanne,Law,1962-10-17,High,Personal Current
+223,Victor,Chandler,1940-04-10,Medium,Personal Current
+224,Sam,Norman,2005-02-08,High,Savings
+225,Maria,White,1984-11-10,Medium,Personal Current
+226,Graham,Ford,1960-03-17,Low,Savings
+227,Malcolm,Green,1937-04-06,Medium,Joint
+228,Barbara,Abbott,1978-04-23,Medium,Business
+229,Maria,Hall,1953-11-16,Medium,Personal Current
+230,Gerald,Baker,1942-09-14,Low,Business
+231,Sara,Wade,1963-08-04,Low,Savings
+232,Abdul,Williams,1956-01-31,Low,Personal Current
+233,Colin,Palmer,1978-05-23,Low,Personal Current
+234,Elliot,Cook,1999-05-02,Medium,Joint
+235,Charles,Harris,1977-04-25,Low,Personal Current
+236,Roy,Murray,1949-09-12,Medium,Personal Current
+237,Beth,Scott,1974-08-24,Medium,Personal Current
+238,Holly,Simpson,1964-11-23,Medium,Business
+239,Emma,White,1945-02-10,High,Joint
+240,Frank,Ellis,1956-06-24,Medium,Joint
+241,Marian,Woods,1935-10-03,Medium,Personal Current
+242,Daniel,Dixon,1959-05-17,Medium,Personal Current
+243,Reece,Bailey,1925-09-30,Low,Savings
+244,Josh,Tomlinson,1976-11-24,High,Student
+245,Owen,Goodwin,1935-02-06,Low,Personal Current
+246,Ellie,Williams,1931-03-30,Low,Savings
+247,Callum,Moore,1934-11-30,Medium,Business
+248,Wayne,Dunn,1982-01-28,Low,Joint
+249,Georgia,Dixon,1934-01-18,High,Joint
+250,Jamie,Carter,1945-08-19,Medium,Business
+251,Eleanor,Hall,1992-06-27,High,Personal Current
+252,Tom,Thomas,2000-10-31,Medium,Savings
+253,Matthew,Turnbull,1955-10-02,Medium,Business
+254,Donna,Phillips,1971-06-02,High,Personal Current
+255,Heather,Bibi,1988-03-26,Low,Joint
+256,Iain,Savage,1960-04-01,High,Savings
+257,Karl,Clarke,1924-04-07,Low,Savings
+258,Fiona,Pollard,1937-09-10,Medium,Savings
+259,Joanna,Young,1993-06-17,Low,Business
+260,Dylan,Armstrong,1977-09-21,Medium,Joint
+261,Dale,Williams,1973-07-11,Low,Personal Current
+262,Abigail,Stevens,1927-02-13,High,Business
+263,Henry,Edwards,1976-12-21,High,Personal Current
+264,Jade,Jones,1926-02-18,High,Personal Current
+265,Richard,Harvey,1969-11-04,Low,Student
+266,Georgina,Stevenson,1996-03-09,Medium,Student
+267,Paula,Jones,1961-08-15,Medium,Student
+268,Stanley,Pritchard,1929-02-04,Low,Business
+269,Jason,Allen,1998-03-18,Low,Joint
+270,Terry,Bird,1934-03-19,Medium,Savings
+271,Wendy,Byrne,1967-12-19,Medium,Personal Current
+272,Jennifer,Brown,1961-05-20,Medium,Business
+273,Graham,Patel,1985-02-28,Medium,Business
+274,Liam,Matthews,1977-11-19,Low,Joint
+275,Scott,Little,1958-03-23,Low,Personal Current
+276,Laura,Bird,1965-05-07,Low,Personal Current
+277,Toby,Booth,1945-04-04,High,Personal Current
+278,Robert,Abbott,1991-08-02,Low,Personal Current
+279,Hugh,Howell,1963-05-03,Low,Personal Current
+280,Kimberley,Smith,1997-07-27,Low,Business
+281,Bradley,Potter,1935-05-30,High,Student
+282,Janet,Hughes,1956-01-29,High,Personal Current
+283,Tina,Kent,1946-10-30,Medium,Personal Current
+284,Liam,Hunt,1926-08-11,Medium,Personal Current
+285,Joseph,Gibbs,1959-04-26,Medium,Personal Current
+286,Lynne,Hayward,1951-01-30,Low,Personal Current
+287,Conor,Burgess,1953-02-21,High,Personal Current
+288,Ben,White,1943-06-29,Medium,Joint
+289,Joanna,Owens,1958-05-16,Medium,Business
+290,William,Nelson,1953-07-02,Medium,Personal Current
+291,Tom,Nash,1935-04-11,Medium,Student
+292,Douglas,Cooper,1932-03-09,Medium,Business
+293,Hilary,White,1954-07-17,High,Personal Current
+294,Garry,King,1939-12-03,High,Personal Current
+295,Jill,Pearce,1979-09-11,Medium,Business
+296,Patrick,Wright,1985-08-30,Medium,Personal Current
+297,Charlotte,Atkinson,1973-10-24,Low,Savings
+298,Gillian,Talbot,1994-04-15,Medium,Savings
+299,Chelsea,Pearson,1968-12-22,Low,Personal Current
+300,Callum,Foster,1952-05-06,Medium,Personal Current
+301,June,Carter,2000-10-07,High,Joint
+302,Kenneth,Byrne,1975-03-29,Medium,Personal Current
+303,Richard,Hancock,1961-11-19,Medium,Personal Current
+304,Linda,Bennett,2004-07-29,Low,Joint
+305,Paul,Black,1925-01-06,Low,Savings
+306,Graham,Tomlinson,1970-01-06,Medium,Personal Current
+307,Leonard,Taylor,1972-08-20,Low,Business
+308,Duncan,Thomas,1957-07-12,Low,Personal Current
+309,Cameron,Benson,1942-03-18,Medium,Business
+310,Chloe,Oliver,1985-12-09,Medium,Joint
+311,Jennifer,Mason,1985-11-08,Medium,Savings
+312,Irene,Saunders,1927-01-06,Low,Student
+313,Allan,Burton,1969-02-21,Medium,Business
+314,Harry,Morris,1929-12-17,Medium,Personal Current
+315,Terry,Carter,1986-03-01,Medium,Joint
+316,Julian,Walker,1999-08-31,Medium,Personal Current
+317,Simon,Walters,1990-09-10,Low,Personal Current
+318,Deborah,Mitchell,1965-04-19,Medium,Personal Current
+319,Elliot,Reynolds,1935-09-30,Medium,Business
+320,Gavin,Burgess,2006-01-11,High,Business
+321,Ronald,Patel,1933-02-11,Medium,Personal Current
+322,Barry,Bond,1946-07-18,Medium,Personal Current
+323,Gregory,Ali,1960-12-02,Medium,Joint
+324,Conor,Schofield,1955-01-04,Medium,Student
+325,Victoria,Frost,1942-04-13,High,Personal Current
+326,Stephanie,Mann,1983-06-29,Medium,Savings
+327,Amber,Tucker,1986-06-30,Medium,Savings
+328,Craig,Palmer,1973-12-07,Medium,Business
+329,Douglas,Brennan,1966-02-02,Medium,Personal Current
+330,Frank,Dixon,1955-06-03,Medium,Student
+331,Chelsea,Payne,1943-04-05,High,Savings
+332,Albert,Mitchell,1958-10-12,Medium,Joint
+333,Linda,Jones,1945-02-20,Medium,Savings
+334,Tracey,Reid,1991-05-12,High,Savings
+335,Bernard,Winter,1970-01-25,Low,Personal Current
+336,Josh,Hardy,1990-12-04,Low,Business
+337,Douglas,Hughes,1956-02-28,Low,Student
+338,Stuart,Martin,1955-03-24,High,Personal Current
+339,Hollie,Page,1971-03-29,Low,Savings
+340,Charlie,Powell,2002-04-02,Low,Personal Current
+341,Brett,James,1976-05-04,Low,Personal Current
+342,Carole,Francis,1991-09-12,Low,Business
+343,Julian,Wilkins,1975-12-25,Low,Student
+344,Marc,Rees,1999-10-31,Medium,Joint
+345,Donald,Scott,1961-05-12,Medium,Personal Current
+346,Barry,Walton,1982-05-03,Low,Joint
+347,Molly,Frost,1971-01-07,Low,Personal Current
+348,Lesley,Hunter,1928-04-20,Low,Personal Current
+349,Yvonne,Burke,1940-10-11,Low,Business
+350,Lucy,Smith,1953-02-18,Medium,Joint
+351,Alexandra,Hammond,1996-01-17,Medium,Student
+352,Lindsey,O'Brien,1967-02-23,Low,Personal Current
+353,Hayley,Ward,1989-04-28,Medium,Business
+354,Nicole,Thomas,1964-10-31,Low,Savings
+355,Beth,George,1938-02-01,High,Joint
+356,Ellie,Vaughan,1959-08-19,Medium,Joint
+357,Elliot,Clark,1949-12-16,Medium,Personal Current
+358,Lawrence,Jenkins,1929-09-12,Low,Personal Current
+359,Ashleigh,Davies,1978-05-21,High,Savings
+360,Hannah,Macdonald,1989-05-19,Low,Personal Current
+361,Lisa,Weston,1925-08-23,Low,Personal Current
+362,Carolyn,Edwards,1995-07-07,Low,Business
+363,Clive,Bradley,1962-01-07,Low,Savings
+364,Gerard,Gordon,1931-04-01,High,Joint
+365,Jennifer,Elliott,1959-11-25,Medium,Savings
+366,Julia,O'Sullivan,1961-02-20,Low,Savings
+367,Joanna,Hooper,1968-03-13,Medium,Personal Current
+368,Danielle,Roberts,2006-02-17,High,Personal Current
+369,Hayley,Gill,1989-05-20,High,Personal Current
+370,Stuart,Nash,1972-02-01,Medium,Personal Current
+371,Trevor,Smith,1995-01-09,High,Joint
+372,Susan,Stanley,1969-02-04,High,Personal Current
+373,Jill,Young,1974-11-05,Medium,Student
+374,Lawrence,Baker,1974-07-15,Low,Personal Current
+375,Lydia,Chambers,1982-06-04,Medium,Personal Current
+376,Jodie,Young,1959-06-15,High,Student
+377,Antony,Knight,1957-10-03,Low,Personal Current
+378,James,Lewis,1968-06-07,High,Personal Current
+379,Christopher,Lewis,1951-12-14,Low,Personal Current
+380,Ian,Williams,1969-07-08,Low,Personal Current
+381,Neil,Hall,1968-01-23,Low,Joint
+382,Liam,Griffiths,1953-08-16,Low,Personal Current
+383,Hollie,Thomson,1982-11-25,High,Personal Current
+384,Marian,Evans,1924-09-01,High,Savings
+385,Terry,Chan,1982-01-29,High,Personal Current
+386,Bryan,Walters,1997-09-12,Medium,Business
+387,Denise,Brown,2000-03-14,Low,Savings
+388,Francesca,King,1974-04-14,Medium,Student
+389,Phillip,Preston,2004-11-20,Medium,Savings
+390,Mohamed,Sanders,1967-02-04,Medium,Personal Current
+391,Elliot,Collins,2006-09-11,Low,Savings
+392,Janice,Hunter,1924-12-15,Medium,Personal Current
+393,Jill,Hilton,1977-02-04,Medium,Business
+394,Colin,Kelly,1924-10-18,High,Personal Current
+395,Kim,Thompson,1999-10-13,High,Savings
+396,Jean,Davies,1940-01-06,Medium,Savings
+397,Sam,Pearson,1929-05-10,Medium,Personal Current
+398,Mary,Jones,2000-03-07,Medium,Personal Current
+399,Katherine,Evans,1989-10-02,Low,Joint
+400,James,Sims,1938-10-07,High,Business
+401,Vincent,Clarke,1927-08-11,High,Personal Current
+402,Hayley,Miller,1955-08-27,Medium,Joint
+403,Hilary,Abbott,1931-10-01,Low,Business
+404,Norman,Edwards,1988-04-07,Low,Business
+405,Neil,Hooper,1930-09-13,Medium,Personal Current
+406,Judith,Smith,2002-06-20,Low,Joint
+407,Naomi,Jackson,1994-08-11,High,Personal Current
+408,Rosemary,Price,1974-06-29,Low,Business
+409,Geraldine,Fisher,1939-07-22,Low,Student
+410,Sarah,Hall,1944-11-01,High,Personal Current
+411,Beverley,Noble,1994-06-16,Medium,Joint
+412,Simon,Thorpe,1937-08-14,Low,Personal Current
+413,Patrick,Lee,1979-04-29,Low,Business
+414,Callum,Duffy,1951-01-19,Low,Business
+415,Cheryl,Williams,1970-03-28,Medium,Savings
+416,Lisa,Stevens,1959-08-16,Low,Personal Current
+417,Henry,Lewis,1987-06-01,Medium,Savings
+418,Samuel,Norton,1997-05-11,High,Personal Current
+419,Molly,Watson,1935-05-30,Low,Personal Current
+420,Wayne,Barry,1963-11-18,High,Business
+421,Nicholas,Robinson,1959-01-20,High,Personal Current
+422,Norman,Taylor,1986-04-24,Low,Personal Current
+423,Malcolm,Scott,1968-12-30,High,Business
+424,Pamela,Evans,1958-04-24,Medium,Personal Current
+425,John,Foster,1976-03-16,High,Personal Current
+426,Danielle,White,1955-10-23,Medium,Business
+427,Laura,Hall,1993-03-30,Medium,Personal Current
+428,Kerry,Khan,1957-04-27,Medium,Joint
+429,Stacey,Day,1988-12-18,High,Business
+430,Gillian,White,1934-02-16,Medium,Business
+431,Kim,Morrison,1963-10-27,Medium,Savings
+432,Dorothy,Taylor,1966-09-27,High,Personal Current
+433,Callum,Chambers,1958-10-05,Low,Personal Current
+434,Natalie,Ali,2001-09-10,Low,Business
+435,Dennis,Marshall,1992-01-12,Low,Business
+436,Damien,Miller,1974-02-11,Low,Savings
+437,Kathleen,Hall,1928-01-19,Low,Personal Current
+438,Robert,Austin,1976-05-31,High,Personal Current
+439,Glen,Griffiths,1980-06-05,Low,Personal Current
+440,Jean,Taylor,1998-07-13,Medium,Joint
+441,Alexandra,Green,1990-07-16,Low,Student
+442,Teresa,Harding,1999-12-22,High,Business
+443,Thomas,Carter,1956-11-16,High,Joint
+444,Martyn,Rose,1995-02-28,Medium,Personal Current
+445,Dylan,Jones,1931-02-25,High,Savings
+446,Terry,Herbert,1933-01-18,Low,Student
+447,Alan,Gardiner,1963-12-30,High,Savings
+448,Dale,Powell,1938-06-21,Low,Joint
+449,Louis,James,1993-12-11,High,Business
+450,Simon,Gordon,1986-06-07,Low,Business
+451,Edward,Akhtar,1978-09-28,Medium,Personal Current
+452,Alan,Harris,1989-10-27,Medium,Personal Current
+453,Roy,Miller,1951-01-23,Low,Joint
+454,Ruth,Smith,1928-03-14,Low,Personal Current
+455,Hannah,Farrell,1948-11-21,Low,Personal Current
+456,Ashley,Noble,1955-10-08,Low,Personal Current
+457,Carole,Griffiths,1973-08-09,Medium,Savings
+458,Daniel,Wells,1985-04-15,Low,Personal Current
+459,Jordan,Cook,1987-09-09,Low,Savings
+460,Shaun,Austin,1937-03-20,Low,Business
+461,Marie,Newman,1941-11-30,High,Personal Current
+462,Bethan,Turner,1943-03-05,Low,Personal Current
+463,Scott,Smith,1988-01-02,Low,Personal Current
+464,Eleanor,Simpson,1928-05-10,Low,Business
+465,Derek,Law,1995-09-23,Medium,Personal Current
+466,Stewart,Warren,1930-02-17,High,Personal Current
+467,Roger,Morris,1944-12-31,Low,Personal Current
+468,Callum,Martin,1989-09-10,Low,Joint
+469,Claire,Patel,1963-09-25,Medium,Student
+470,Dawn,Stevens,1999-02-20,Medium,Joint
+471,Anthony,Francis,1947-09-11,Low,Business
+472,Bethan,Burke,2001-04-29,Medium,Personal Current
+473,Samuel,Sharp,1969-07-25,High,Business
+474,Lynn,Jones,1929-04-21,Low,Personal Current
+475,Gerard,Davies,1981-09-04,Medium,Business
+476,Malcolm,Richards,1994-06-05,Medium,Savings
+477,Aimee,Johnson,1964-10-12,Medium,Business
+478,Marc,Jones,1975-04-02,Low,Personal Current
+479,Mark,Barker,1933-03-07,Low,Personal Current
+480,Glen,Walker,1937-06-27,High,Personal Current
+481,Danielle,Davies,1935-05-26,High,Personal Current
+482,Gemma,Mason,1989-03-26,Medium,Personal Current
+483,Ricky,Jones,1982-08-03,Medium,Personal Current
+484,Lawrence,Hughes,1951-07-08,Medium,Personal Current
+485,Rhys,Curtis,2000-11-11,Medium,Student
+486,Leigh,Smith,1934-11-12,Low,Business
+487,Kirsty,Patel,1988-03-26,Low,Student
+488,Kayleigh,Jones,1949-10-11,High,Personal Current
+489,Alex,Taylor,1934-06-10,Low,Student
+490,Jennifer,Thompson,1986-09-14,High,Personal Current
+491,Frederick,Russell,1993-05-27,Low,Business
+492,Dawn,Greenwood,1997-02-17,Low,Personal Current
+493,William,Wood,1953-08-29,Low,Joint
+494,Tracy,Myers,1940-04-11,Medium,Business
+495,Danielle,Stevens,1945-01-21,High,Business
+496,Lydia,Fitzgerald,1929-04-30,Low,Savings
+497,Diana,Jennings,1962-09-22,High,Business
+498,Lindsey,Wood,1959-11-23,Medium,Business
+499,Michelle,Doyle,1988-06-22,High,Savings
+500,Tom,Watkins,2004-10-24,Low,Savings
+501,David,Bennett,1957-12-07,High,Savings
+502,Katie,Reeves,1993-05-13,Medium,Savings
+503,Lisa,Hughes,1932-11-08,Low,Savings
+504,Lee,Brown,2006-02-26,Low,Student
+505,Trevor,Walker,1976-03-06,High,Personal Current
+506,Ruth,Davis,1926-03-25,High,Personal Current
+507,Sally,Carter,1928-03-28,Low,Personal Current
+508,Patricia,Allen,2003-06-07,Medium,Personal Current
+509,Kieran,Burke,1981-01-08,High,Personal Current
+510,Lorraine,Doherty,1971-07-21,High,Savings
+511,Terry,Cooper,2005-10-29,High,Personal Current
+512,Stuart,Ahmed,2006-11-06,Medium,Business
+513,Amy,Lees,1953-07-12,Medium,Personal Current
+514,Joanna,Gibbons,1935-09-30,Low,Personal Current
+515,Stephanie,Payne,1985-12-14,Low,Joint
+516,Ross,Hill,1933-02-13,Medium,Savings
+517,Andrew,Baker,1999-10-03,Medium,Personal Current
+518,William,Hughes,1941-09-16,Low,Business
+519,Alison,Wallis,1970-12-10,High,Business
+520,Gary,Morris,1992-09-03,Medium,Personal Current
+521,Marcus,Smith,1970-12-02,Medium,Personal Current
+522,Jennifer,Vaughan,1983-11-22,Medium,Business
+523,Frances,Cooke,1971-05-23,Medium,Savings
+524,Stacey,Murray,1957-12-29,Low,Savings
+525,Tom,Edwards,1947-08-20,Low,Business
+526,Charles,Preston,2005-12-26,Low,Personal Current
+527,Maureen,Flynn,1924-04-24,Low,Student
+528,Richard,Flynn,1973-04-12,Medium,Personal Current
+529,Fiona,Moss,1981-05-08,Medium,Joint
+530,Adam,Smith,1986-08-07,Low,Savings
+531,Leigh,West,1983-10-18,Medium,Savings
+532,Kathleen,Jones,1984-10-26,Low,Personal Current
+533,Diana,Jackson,1988-07-14,High,Personal Current
+534,Ian,Moran,1927-12-27,High,Student
+535,Gerald,Morris,1952-01-05,Low,Joint
+536,Patricia,Thornton,1965-04-15,Medium,Savings
+537,Stacey,Collier,1950-01-17,Low,Personal Current
+538,Claire,Nash,1991-06-16,Medium,Business
+539,Jamie,Smith,1986-10-21,Medium,Personal Current
+540,Amber,Harvey,1930-06-09,Low,Business
+541,Alexander,Hayward,1930-01-16,Medium,Personal Current
+542,Robin,Davis,1956-12-14,Low,Savings
+543,Brandon,Hardy,1947-08-20,Low,Personal Current
+544,Arthur,Holmes,1981-09-30,Medium,Business
+545,Elliott,Davies,1932-04-05,Low,Student
+546,Jayne,Smith,1975-06-22,Medium,Personal Current
+547,Anthony,Williams,1943-12-07,Medium,Personal Current
+548,Amelia,Preston,1999-02-07,High,Personal Current
+549,Mitchell,Hall,1999-07-21,Low,Personal Current
+550,Jacob,Parkinson,1928-11-30,Medium,Business
+551,Molly,Bryant,1945-11-25,Medium,Student
+552,June,Evans,1956-07-21,Low,Joint
+553,Jacqueline,Jones,1993-07-25,High,Savings
+554,Mohamed,Chapman,1926-04-07,Medium,Savings
+555,Antony,Johnson,1994-07-10,Medium,Personal Current
+556,Claire,Vincent,1965-04-12,Medium,Personal Current
+557,Lucy,Wood,1950-03-18,High,Joint
+558,Emily,Patel,1974-09-22,High,Business
+559,Christopher,Robinson,1927-03-29,Medium,Personal Current
+560,Shane,Williams,1999-08-10,Medium,Personal Current
+561,Terry,Howard,1940-01-14,Low,Student
+562,Danny,Palmer,1981-05-20,Low,Business
+563,Alan,Simmons,1931-08-22,Medium,Personal Current
+564,Richard,Williams,1979-03-24,Low,Student
+565,Henry,Shaw,2001-07-04,Medium,Business
+566,Max,Coleman,1947-08-28,Low,Personal Current
+567,Christian,Clarke,1986-10-03,Low,Personal Current
+568,Jane,Smith,1977-07-13,Medium,Savings
+569,Elaine,Edwards,1947-01-24,High,Business
+570,Donna,Houghton,1941-01-07,Low,Personal Current
+571,Kate,Stokes,1930-12-23,Medium,Student
+572,Stephanie,Adams,1925-11-28,High,Student
+573,William,Lee,1929-08-30,Low,Student
+574,Jayne,Rowley,1970-02-17,High,Savings
+575,Amber,O'Brien,1954-03-03,Low,Student
+576,Jasmine,Reed,1934-05-24,Low,Student
+577,Martyn,Thompson,1976-04-14,High,Student
+578,Colin,Austin,1931-12-29,Low,Savings
+579,Jade,Peters,1946-03-04,Medium,Savings
+580,Gary,Graham,1944-12-28,High,Business
+581,Glenn,Wilson,1947-09-17,Low,Personal Current
+582,Ricky,Campbell,1950-01-21,Medium,Business
+583,Harriet,Bradley,1937-06-19,High,Business
+584,Jennifer,Robinson,1925-09-08,Low,Personal Current
+585,Gary,Johnson,1976-11-02,High,Student
+586,Shane,Allen,1953-01-10,Medium,Student
+587,Margaret,Doyle,1956-02-23,Medium,Personal Current
+588,Sandra,Rahman,1979-05-03,Medium,Personal Current
+589,Victoria,Glover,1944-07-21,Low,Personal Current
+590,Mary,Campbell,1939-10-30,High,Personal Current
+591,Cheryl,Shaw,1959-09-16,High,Business
+592,Sam,Jenkins,1952-10-26,Medium,Personal Current
+593,Danny,Walker,1973-02-06,Medium,Business
+594,Carol,Reed,1985-10-20,Medium,Savings
+595,Mary,Davies,1996-08-03,Medium,Business
+596,Irene,Cooper,1998-09-15,Medium,Savings
+597,Jayne,Walsh,2001-07-31,Medium,Personal Current
+598,Kevin,Pearson,1971-05-03,Medium,Savings
+599,Judith,Gibson,1966-09-11,Medium,Personal Current
+600,Lesley,Walker,1999-06-26,Medium,Student
+601,Christine,Ali,2000-04-21,Low,Business
+602,Alexander,King,1969-07-31,Low,Personal Current
+603,Carolyn,Sharp,1954-08-18,Medium,Personal Current
+604,Alexandra,Anderson,1931-08-18,Medium,Joint
+605,Kieran,North,1995-11-15,Medium,Business
+606,Natalie,Rowe,1946-01-04,Medium,Savings
+607,Louise,Ellis,2001-08-02,Medium,Personal Current
+608,Toby,Hanson,1946-05-01,Medium,Savings
+609,Sarah,Chamberlain,1995-07-12,Low,Personal Current
+610,Phillip,Storey,1935-10-28,Medium,Joint
+611,Carolyn,West,1947-07-24,Medium,Business
+612,Marion,Warren,1930-03-15,High,Joint
+613,Scott,Carey,1965-10-01,Medium,Business
+614,Liam,Wilkinson,1980-03-18,Low,Personal Current
+615,Danielle,Ali,1935-03-10,Low,Joint
+616,Carl,Goodwin,1988-07-27,Low,Business
+617,Joshua,Dickinson,1996-11-26,Medium,Personal Current
+618,Sally,Blake,1980-07-07,Low,Business
+619,Terence,Wright,1980-03-31,Medium,Personal Current
+620,Emma,Jennings,1974-06-11,Medium,Savings
+621,Kelly,Burke,2002-06-05,Low,Business
+622,Danny,Nelson,1951-10-13,Medium,Savings
+623,Joanne,Whitehouse,1944-01-16,Low,Personal Current
+624,Stewart,Brown,1984-06-01,Medium,Savings
+625,Sylvia,Lawrence,1990-05-30,Low,Savings
+626,Brian,Martin,2001-08-22,High,Business
+627,Duncan,Allen,1933-02-11,Low,Student
+628,Diane,Bradley,1957-12-26,High,Personal Current
+629,Liam,Jenkins,1976-05-19,Medium,Joint
+630,Lorraine,Baker,1988-03-14,High,Student
+631,Joanne,Roberts,1959-05-12,Medium,Savings
+632,Charles,Arnold,2006-10-26,Medium,Savings
+633,Bethan,Collins,1971-01-02,Medium,Business
+634,Simon,Brown,1997-05-27,Medium,Savings
+635,Jodie,Jones,1928-10-02,Medium,Savings
+636,Joel,Bailey,1945-07-10,Medium,Personal Current
+637,Douglas,Green,1990-11-21,Medium,Personal Current
+638,Brenda,Todd,1934-12-02,Low,Personal Current
+639,Clive,Byrne,1933-09-25,Low,Personal Current
+640,Timothy,Holmes,1998-05-16,Medium,Savings
+641,Paula,Patel,1982-04-03,Medium,Joint
+642,Graeme,Moore,1937-08-14,Medium,Savings
+643,Carol,Kaur,1935-11-05,Medium,Business
+644,Sylvia,Hodgson,1978-10-05,High,Business
+645,Katherine,Hilton,1948-03-03,Low,Business
+646,Kelly,Taylor,1964-07-14,Low,Savings
+647,Catherine,Clarke,1975-05-16,Low,Savings
+648,Elliott,Griffiths,2001-12-06,Medium,Student
+649,Edward,Miller,1988-07-28,High,Personal Current
+650,Charlene,Elliott,1990-07-04,Low,Personal Current
+651,Francis,May,1997-03-25,Medium,Business
+652,Jessica,Brown,1927-09-09,Medium,Business
+653,Josephine,Armstrong,1926-03-20,Medium,Personal Current
+654,Lindsey,Williams,1999-01-20,Medium,Student
+655,Charles,Hammond,1980-07-09,Low,Business
+656,Victor,Chapman,1994-08-17,Medium,Personal Current
+657,Janice,Hooper,1939-10-07,Medium,Personal Current
+658,Lynda,Anderson,1977-11-08,Low,Business
+659,Tracey,James,1952-07-06,Medium,Student
+660,Phillip,Fletcher,1935-09-23,Low,Personal Current
+661,Mohammed,Howard,1954-11-27,Medium,Savings
+662,Garry,Walters,1966-07-24,Medium,Business
+663,Emily,Fraser,1989-01-14,Medium,Savings
+664,Matthew,Smith,1933-10-04,Medium,Personal Current
+665,Frances,Carey,1979-06-30,Low,Personal Current
+666,Denis,Cunningham,1931-11-26,Medium,Student
+667,Justin,Lane,1946-10-13,Low,Savings
+668,Jake,Williams,1954-06-13,Low,Joint
+669,Denis,Buckley,1939-10-28,High,Personal Current
+670,Craig,Dunn,1949-10-27,Low,Business
+671,Peter,Campbell,1968-12-11,Medium,Personal Current
+672,Lorraine,Fraser,1975-05-08,Medium,Personal Current
+673,Raymond,Lamb,1929-09-04,Low,Personal Current
+674,Ronald,Spencer,1983-05-02,Low,Personal Current
+675,Darren,Buckley,1990-11-04,Low,Savings
+676,Sheila,Harris,2005-01-22,High,Savings
+677,Shaun,Harris,1989-07-21,Medium,Personal Current
+678,Terry,Watson,1990-10-03,Low,Savings
+679,Craig,Webb,1998-09-15,Medium,Personal Current
+680,Dorothy,Hopkins,1927-07-14,Medium,Joint
+681,Arthur,Pollard,1926-06-15,Low,Business
+682,Alex,Matthews,1946-06-25,Medium,Personal Current
+683,Scott,Mann,1992-04-10,Medium,Savings
+684,Gary,Green,1956-07-07,High,Personal Current
+685,Caroline,Morris,1983-03-16,Low,Personal Current
+686,Bruce,Read,1972-03-23,Low,Personal Current
+687,Dennis,Martin,2006-03-16,Low,Joint
+688,Alice,Pritchard,1997-03-21,Medium,Savings
+689,Melanie,Murray,1991-04-10,Low,Personal Current
+690,Ashleigh,Wong,1947-11-29,Medium,Business
+691,Lindsey,Green,2002-10-22,Medium,Savings
+692,Ashley,Whitehouse,1976-05-04,Medium,Business
+693,Heather,Rogers,1943-09-23,Medium,Savings
+694,Charles,Schofield,1951-09-18,High,Savings
+695,Rosie,Wright,1983-12-12,Medium,Personal Current
+696,Lindsey,Bryan,1949-05-26,Medium,Personal Current
+697,Hannah,Lee,1988-03-19,Low,Business
+698,Lawrence,Gibson,1952-02-07,High,Personal Current
+699,Brian,Shaw,1950-12-27,Low,Business
+700,Martyn,Baker,1994-01-30,Low,Savings
+701,Debra,Craig,1997-07-15,Low,Personal Current
+702,Rhys,Davies,2002-04-17,Medium,Personal Current
+703,Jamie,Ward,1990-03-09,Low,Personal Current
+704,Grace,Rowe,1983-12-11,Low,Business
+705,Sian,Poole,1993-07-31,Low,Student
+706,Lawrence,Barnes,1953-10-03,Low,Personal Current
+707,Henry,Butler,2003-11-10,Medium,Personal Current
+708,Joyce,Lewis,1965-10-04,Medium,Personal Current
+709,Charles,Reid,1996-03-16,Low,Student
+710,Rosie,Price,1979-04-14,Medium,Personal Current
+711,Jade,Farrell,1928-05-20,Medium,Business
+712,Declan,Buckley,1988-03-29,Low,Personal Current
+713,Beth,Jones,1997-11-04,Low,Personal Current
+714,Vincent,Cox,1991-07-23,High,Student
+715,Gavin,Hill,1998-02-16,Medium,Student
+716,Dean,Bennett,1932-02-26,Low,Business
+717,Kimberley,Rhodes,1942-03-12,Medium,Savings
+718,Katy,Burgess,1934-05-25,Low,Personal Current
+719,Elliott,White,2003-08-23,Medium,Savings
+720,Harriet,Wilkins,1989-01-24,Low,Personal Current
+721,Mohammed,Rogers,1991-04-24,Low,Personal Current
+722,Simon,King,1987-04-07,Low,Business
+723,Kirsty,Thomas,1950-11-04,High,Joint
+724,Benjamin,Cooper,1973-10-22,Medium,Business
+725,Eleanor,Kelly,1964-02-15,Low,Student
+726,Gerald,Thomas,1984-03-24,Low,Savings
+727,Lee,Hughes,1927-06-11,Medium,Personal Current
+728,Damian,Roberts,1964-09-11,Low,Personal Current
+729,Chelsea,Booth,1975-02-09,Low,Business
+730,Vincent,Evans,1980-11-07,High,Personal Current
+731,Angela,Watts,2006-06-26,Low,Business
+732,Declan,Fisher,1953-11-16,Medium,Joint
+733,Barbara,Knight,2005-05-21,High,Personal Current
+734,Stewart,Barlow,2002-12-26,Low,Savings
+735,Kim,Curtis,1999-01-13,Low,Savings
+736,Joan,Fisher,1984-10-23,Low,Personal Current
+737,Bethan,Freeman,1990-06-23,High,Business
+738,Roger,Baxter,1999-10-06,High,Savings
+739,Marie,Hamilton,1977-10-11,Medium,Personal Current
+740,Clifford,Martin,1960-03-02,Low,Savings
+741,Natasha,Norman,1983-06-01,Medium,Business
+742,Stanley,Edwards,1962-03-19,High,Personal Current
+743,Andrea,Griffiths,1929-06-14,Medium,Business
+744,Jennifer,Smith,1933-09-27,High,Personal Current
+745,Martyn,Scott,2003-05-29,High,Joint
+746,Gail,George,1955-04-03,Medium,Joint
+747,Steven,Lyons,1980-10-15,Medium,Personal Current
+748,Suzanne,Abbott,1958-03-15,Low,Personal Current
+749,Stewart,Sutton,1925-02-06,Low,Joint
+750,Sharon,Stanley,1931-05-26,Medium,Student
+751,Graeme,O'Sullivan,1933-05-05,Low,Joint
+752,Dawn,Bradshaw,2002-03-05,High,Personal Current
+753,Janice,Thomas,1940-02-09,High,Business
+754,Arthur,James,1935-06-24,Medium,Joint
+755,Clifford,Woodward,1991-05-05,Low,Business
+756,Jeremy,Newman,2005-03-19,Low,Personal Current
+757,Jessica,Bradshaw,1945-03-29,Low,Savings
+758,Raymond,Walker,1961-07-07,Medium,Savings
+759,Danny,Green,1991-11-08,Medium,Personal Current
+760,Sharon,Stewart,1987-07-16,High,Student
+761,Joseph,Baker,1972-09-03,Medium,Personal Current
+762,Arthur,Ashton,2000-01-04,High,Joint
+763,Vincent,Howe,1971-05-15,High,Savings
+764,Aimee,Hill,1938-04-02,Low,Personal Current
+765,Kate,Miller,1978-04-25,High,Savings
+766,Aaron,Davies,1971-11-09,Low,Student
+767,Raymond,Phillips,1998-01-07,Low,Personal Current
+768,Lynda,Johnson,1929-03-29,Medium,Business
+769,Joel,Skinner,1979-10-07,Low,Business
+770,Sara,Burke,1927-04-08,Medium,Savings
+771,Bradley,Bates,1948-09-05,Medium,Personal Current
+772,Mandy,Cox,1963-02-07,Medium,Joint
+773,Damian,Burgess,2002-10-06,Low,Student
+774,Rebecca,O'Connor,1989-09-02,Medium,Personal Current
+775,Vanessa,Woodward,1943-09-15,Medium,Student
+776,Elliott,Robinson,1939-12-21,Medium,Savings
+777,Howard,Norman,1985-06-16,Medium,Savings
+778,Billy,Gardner,1977-05-24,Low,Student
+779,Clive,Wood,2003-08-25,Medium,Savings
+780,Joseph,Ali,1968-09-18,Low,Business
+781,Timothy,Steele,1957-06-10,Medium,Personal Current
+782,Christopher,Smith,1940-01-23,Medium,Joint
+783,Luke,Baldwin,1941-04-20,Medium,Business
+784,Philip,Bradley,1934-06-26,Medium,Student
+785,Helen,Moore,1946-12-15,High,Student
+786,Gary,Fry,1973-03-10,High,Savings
+787,Simon,Ellis,1960-05-27,High,Savings
+788,Chloe,Dunn,1978-08-13,High,Business
+789,Terence,Smith,2006-07-11,Low,Student
+790,Clive,Richardson,1960-02-11,Low,Business
+791,Dominic,Roberts,1980-01-13,Medium,Personal Current
+792,Ross,Potter,1972-12-19,Low,Personal Current
+793,Shirley,Jones,1959-07-04,Medium,Savings
+794,Anthony,Bentley,2003-08-10,Low,Personal Current
+795,Ben,Bradley,1956-03-27,Medium,Personal Current
+796,Stephen,Matthews,1925-11-25,Medium,Personal Current
+797,Janet,Cross,1951-03-08,Medium,Personal Current
+798,Sean,Newton,1964-10-31,Medium,Personal Current
+799,Clive,Robson,1963-08-05,High,Business
+800,Olivia,Carter,1942-10-25,Medium,Personal Current
+801,Jane,Wheeler,1973-11-12,High,Joint
+802,Matthew,Cook,1935-08-26,Low,Joint
+803,Graeme,Davies,1994-06-02,High,Business
+804,Hollie,Walker,1937-01-21,Medium,Personal Current
+805,Katy,North,1941-01-10,Low,Business
+806,Tracy,Scott,1995-04-30,Low,Savings
+807,Hayley,Bird,1947-05-03,Medium,Savings
+808,Marcus,Swift,1974-03-11,Low,Savings
+809,Nicholas,Booth,1998-03-10,Low,Business
+810,Barbara,Morris,1979-08-09,Medium,Personal Current
+811,Michelle,Miller,1996-09-30,Medium,Joint
+812,Luke,Wilson,1946-12-15,Medium,Savings
+813,Mohammad,Harrison,1953-03-28,High,Joint
+814,Robert,Burgess,1953-11-15,Medium,Business
+815,Thomas,Briggs,1962-06-29,Medium,Personal Current
+816,Phillip,Sinclair,1952-03-24,Low,Business
+817,Rosemary,Jennings,2006-01-11,Medium,Personal Current
+818,Shane,Wright,1974-03-06,Low,Personal Current
+819,Marian,Griffiths,1925-01-07,High,Personal Current
+820,Shirley,Davies,1961-03-09,High,Personal Current
+821,Stanley,Wilson,1952-05-11,Medium,Savings
+822,Vincent,Harvey,1983-01-24,Low,Personal Current
+823,Frances,Robinson,1955-05-07,High,Personal Current
+824,Jennifer,Hussain,1955-01-19,Medium,Business
+825,Lesley,Burrows,1943-04-29,Low,Business
+826,Louis,Newman,2000-09-26,Low,Business
+827,Rachel,Gallagher,1926-02-03,Medium,Business
+828,Phillip,White,2000-07-20,Low,Joint
+829,Clive,Hale,1969-10-12,High,Personal Current
+830,Vanessa,Marshall,1981-08-05,Medium,Personal Current
+831,Melanie,Thomas,1994-08-04,Low,Joint
+832,Julie,North,1953-12-04,High,Personal Current
+833,Reece,Evans,1979-12-20,Low,Savings
+834,Catherine,Robson,1987-05-30,Medium,Personal Current
+835,Jacqueline,Walton,1985-08-17,Low,Personal Current
+836,Natalie,Watson,2004-07-11,Low,Savings
+837,Tracy,Clarke,2004-06-15,Medium,Savings
+838,Neil,Harrison,1928-06-19,Medium,Savings
+839,Phillip,Sykes,1926-09-20,Medium,Savings
+840,Nigel,Bell,1986-04-09,Medium,Personal Current
+841,Lesley,Phillips,1937-02-03,Medium,Personal Current
+842,Ricky,Foster,1948-03-05,Low,Business
+843,Denis,Ward,1965-10-29,Low,Savings
+844,Gareth,Davies,1962-03-05,High,Personal Current
+845,Sylvia,Moore,1958-11-09,Medium,Business
+846,Gregory,Wilson,1947-08-15,Medium,Personal Current
+847,Charlie,Nicholls,1969-02-24,Low,Student
+848,Rosie,Walters,1995-10-01,Low,Personal Current
+849,Clifford,Evans,2003-02-02,Medium,Joint
+850,Deborah,Wells,1970-04-07,High,Savings
+851,Mark,Williams,1966-09-04,Medium,Personal Current
+852,Leonard,North,1997-07-26,High,Business
+853,Leanne,Allen,1986-09-13,Medium,Student
+854,Liam,Jones,2005-05-06,Low,Personal Current
+855,Judith,Pope,1940-07-26,Medium,Personal Current
+856,Heather,Turner,1999-12-08,Low,Personal Current
+857,Megan,Thomas,1973-08-01,Low,Personal Current
+858,Dominic,Shah,1944-11-04,High,Savings
+859,Hollie,Evans,1979-07-25,Medium,Business
+860,Roy,Jones,1965-10-01,Medium,Savings
+861,Robin,Turner,1996-02-12,Low,Personal Current
+862,June,Hancock,1946-05-18,Low,Personal Current
+863,Steven,Clements,1967-12-13,Low,Personal Current
+864,Carl,Osborne,1994-05-24,Low,Student
+865,Suzanne,Manning,1999-09-21,Medium,Joint
+866,Frank,Read,1972-08-14,Low,Personal Current
+867,Megan,Little,1939-07-31,Medium,Joint
+868,Kerry,Campbell,1982-08-27,Low,Business
+869,David,Douglas,1997-12-25,Low,Student
+870,Dale,Long,1979-06-28,Low,Business
+871,Wendy,White,1999-12-04,Medium,Savings
+872,Keith,Mitchell,1942-05-07,Medium,Savings
+873,Jayne,Lowe,1966-10-09,Medium,Savings
+874,Hugh,Hawkins,2003-10-29,Medium,Student
+875,Sharon,Hill,1951-08-26,Medium,Personal Current
+876,Jodie,Jones,1995-10-02,Low,Personal Current
+877,Sean,Cooper,1951-01-09,Low,Personal Current
+878,Charles,Turner,1995-11-16,High,Savings
+879,Neil,Clarke,1993-11-25,Medium,Personal Current
+880,Megan,Richards,2000-01-02,Low,Business
+881,Jade,Smith,1928-03-25,High,Joint
+882,Liam,Simmons,1959-06-22,Medium,Student
+883,Allan,Norman,1956-09-10,Low,Personal Current
+884,Stacey,Parry,1946-01-04,Medium,Business
+885,Martin,Parsons,1971-01-13,Medium,Business
+886,Albert,Marshall,1978-05-15,Medium,Joint
+887,Diana,Brown,1978-01-04,Low,Personal Current
+888,Gordon,Goodwin,1950-12-28,Low,Student
+889,Jennifer,Riley,1978-06-23,Medium,Personal Current
+890,Lindsey,Bond,1990-10-03,Medium,Personal Current
+891,Declan,Shepherd,1930-04-28,High,Joint
+892,Dennis,Cooke,1952-03-12,Medium,Joint
+893,Maureen,Myers,1953-09-19,Low,Savings
+894,Sharon,Ward,1933-03-21,Medium,Business
+895,Rita,Smith,1924-10-04,Low,Savings
+896,Chelsea,Chapman,1936-08-17,Medium,Student
+897,Kate,Dickinson,1956-11-13,Medium,Personal Current
+898,Diane,Nicholson,1999-10-06,Low,Business
+899,Robert,Nelson,1978-09-16,Medium,Personal Current
+900,Sian,Cox,1928-11-30,Low,Business
+901,Hannah,Morgan,1980-11-28,Low,Business
+902,Glenn,Kelly,1953-12-21,Low,Personal Current
+903,Maurice,Mitchell,1962-11-30,Low,Savings
+904,Jasmine,Hall,1985-05-08,High,Business
+905,Denise,Rogers,1987-05-18,Medium,Savings
+906,Ryan,Jones,1945-11-15,Low,Business
+907,Chelsea,Ingram,1924-09-09,Medium,Business
+908,Fiona,Ellis,1967-05-29,Low,Student
+909,Ricky,Curtis,1925-11-11,High,Personal Current
+910,Harry,Wilson,1941-02-08,Medium,Business
+911,Gareth,Harding,1967-03-20,Medium,Savings
+912,Connor,James,1954-05-13,Low,Personal Current
+913,Gareth,Cole,1932-07-07,Medium,Personal Current
+914,Gary,Anderson,1943-04-26,Medium,Savings
+915,Heather,Barry,1932-05-10,High,Business
+916,Harriet,Finch,1976-08-12,Low,Business
+917,Paige,Carroll,1987-09-23,Low,Savings
+918,Robin,Akhtar,1948-07-16,High,Personal Current
+919,Leonard,Adams,1947-06-25,Medium,Personal Current
+920,Maureen,Davis,1974-11-27,Low,Business
+921,Nicola,Nicholls,1953-11-02,Low,Personal Current
+922,Amanda,Gill,2002-03-14,High,Personal Current
+923,Paige,Allen,1958-10-16,Low,Personal Current
+924,Sian,Smith,1971-07-10,Medium,Savings
+925,Sara,Roberts,1993-06-30,Medium,Business
+926,Ryan,Lewis,1995-10-07,Low,Personal Current
+927,Amelia,Harrison,1942-12-14,Medium,Student
+928,Danny,Herbert,1927-09-26,Low,Savings
+929,Elliot,Parkinson,1969-01-06,Low,Business
+930,Frank,Taylor,1989-04-20,Medium,Personal Current
+931,Dylan,Lewis,1961-03-16,High,Student
+932,Bruce,Ross,1971-01-26,Medium,Personal Current
+933,Robin,Ali,1980-05-10,Medium,Business
+934,Kerry,Power,1934-02-05,Low,Student
+935,Ricky,Briggs,1952-03-14,Low,Personal Current
+936,Tracey,Taylor,1935-10-24,Low,Savings
+937,Janice,Murphy,1966-07-01,Low,Joint
+938,Luke,Bennett,1981-03-08,Low,Personal Current
+939,Alexander,Payne,1974-11-27,Low,Business
+940,Frederick,North,1990-08-13,Low,Personal Current
+941,Diana,Turner,2001-01-27,Low,Savings
+942,Beth,Smith,1995-10-29,Medium,Student
+943,Nicola,Green,1990-01-18,High,Joint
+944,Jeffrey,Roberts,1962-08-21,Low,Personal Current
+945,Richard,Jenkins,2004-01-09,High,Business
+946,Jake,Clark,1959-05-09,High,Joint
+947,Kelly,Stokes,1967-12-30,Low,Savings
+948,Jacqueline,Dixon,1984-10-13,Medium,Joint
+949,Natasha,Riley,1934-08-29,Medium,Joint
+950,Roger,Hart,1975-06-13,Medium,Personal Current
+951,June,Osborne,2003-01-11,Low,Personal Current
+952,Harriet,Mellor,1988-06-19,Medium,Business
+953,Louis,Chandler,1979-11-28,Low,Personal Current
+954,Mitchell,Williams,1928-09-17,Medium,Joint
+955,Joel,Williams,1926-03-29,Medium,Business
+956,Claire,Lewis,1967-10-29,Medium,Personal Current
+957,Diane,Ferguson,1976-04-26,Medium,Savings
+958,Sandra,Brown,2006-09-10,Medium,Student
+959,Alexander,Moore,1943-12-03,Low,Savings
+960,Nicholas,Atkinson,1994-05-02,Low,Personal Current
+961,Malcolm,Barnes,1936-03-21,High,Personal Current
+962,Harriet,Warren,1926-03-15,Low,Savings
+963,Amber,Baker,1981-02-06,Low,Business
+964,Clifford,Evans,2000-10-14,Low,Joint
+965,Francis,Hussain,1977-12-17,Low,Savings
+966,Steven,Hart,1971-01-25,High,Personal Current
+967,Lauren,Arnold,1951-12-29,Medium,Savings
+968,Paula,Campbell,1980-10-20,High,Personal Current
+969,Jemma,Jackson,1986-12-29,Medium,Business
+970,Nigel,Foster,1973-08-31,Medium,Business
+971,Hayley,Shaw,1990-11-21,Low,Joint
+972,Zoe,Davis,1943-02-06,Medium,Business
+973,Sheila,Hudson,1976-09-28,Low,Personal Current
+974,Andrea,Clark,1967-03-20,High,Joint
+975,Kim,Richards,1957-12-29,High,Personal Current
+976,Caroline,Robinson,1940-01-01,Low,Business
+977,Debra,Lewis,1990-08-01,High,Personal Current
+978,Laura,Boyle,1967-05-26,High,Joint
+979,Lawrence,Morton,1949-08-14,Medium,Business
+980,Jeffrey,Arnold,1930-01-26,Low,Personal Current
+981,Ashleigh,Gardiner,2003-06-27,Medium,Personal Current
+982,George,Forster,1948-02-29,Medium,Joint
+983,Irene,Nicholls,2003-05-31,Low,Student
+984,Lynda,Richardson,1993-12-27,Low,Personal Current
+985,Stephen,Bailey,1988-02-23,Medium,Personal Current
+986,Graeme,Palmer,1996-01-20,Low,Personal Current
+987,Wendy,Kennedy,1999-10-09,Medium,Business
+988,Dylan,Turner,1946-08-10,High,Savings
+989,Jenna,Turner,1997-03-15,High,Personal Current
+990,Shane,Brady,1935-05-25,Low,Personal Current
+991,Carolyn,Arnold,1949-07-22,High,Personal Current
+992,Josephine,Moore,1991-11-30,Low,Personal Current
+993,Albert,Wilson,1985-07-06,Low,Student
+994,Lindsey,Harrison,1955-12-30,Medium,Personal Current
+995,Jamie,Price,1939-04-30,Low,Personal Current
+996,Matthew,Thomas,1973-11-18,Low,Joint
+997,Maurice,Hayward,1940-05-25,Medium,Personal Current
+998,Patricia,Ward,1925-03-01,Low,Savings
+999,Lee,Thompson,1931-12-22,Low,Savings
+1000,Bradley,Lewis,1950-04-02,Medium,Savings
